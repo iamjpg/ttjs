@@ -1,3 +1,2 @@
-export default function bar() {
-  //
-}
+const hello = () => console.log("say hello");
+export default hello;

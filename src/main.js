@@ -1,3 +1,3 @@
-import bar from './components/button/button';
+import hello from './components/button/button';
 
-bar();
+hello();
