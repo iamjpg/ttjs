@@ -1,34 +1,22 @@
-var path = require('path');
+const path = require('path');
 
 module.exports = {
   entry: './src/main.js',
   output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'platypus.bundle.js'
+    filename: 'platypus.bundle.js',
+    path: path.resolve(__dirname, 'dist')
   },
-  devServer: {
-    contentBase: path.join(__dirname, 'dist'),
-    compress: true,
-    port: 9000,
-    hot: true
-  },
+  mode: 'none',
   module: {
-    rules: [{
-      test: /\.m?js$/,
-      // exclude: /(node_modules)/,
-      include: [
-        /node_modules(?:\/|\\)lit-element|lit-html/
-      ],
-      use: {
-        loader: 'babel-loader',
-        options: {
-          presets: ['@babel/preset-env', 'es2016'],
-          plugins: [
-            "babel-plugin-transform-class-properties",
-            "@babel/plugin-transform-arrow-functions"
-          ]
-        }
-      }
-    }]
-  }
+    rules: [
+      {
+        test: /.js$/,
+        exclude: /node_modules/,
+        loader: "babel-loader"
+      },
+    ]
+  },
+  plugins: [
+
+  ]
 };
