@@ -11,7 +11,7 @@ module.exports = {
     rules: [
       {
         test: /.js$/,
-        exclude: /node_modules/,
+        // exclude: /node_modules/,
         include: [
           /node_modules(?:\/|\\)lit-element|lit-html/
         ],
