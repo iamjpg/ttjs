@@ -1,3 +1,1 @@
-import hello from './components/button/button';
-
-hello();
+import './components/button/button';
