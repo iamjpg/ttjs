@@ -15,14 +15,18 @@ module.exports = {
   module: {
     rules: [{
       test: /\.m?js$/,
-      exclude: /(node_modules|bower_components)/,
+      // exclude: /(node_modules)/,
       include: [
         /node_modules(?:\/|\\)lit-element|lit-html/
       ],
       use: {
         loader: 'babel-loader',
         options: {
-          presets: ['@babel/preset-env']
+          presets: ['@babel/preset-env', 'es2016'],
+          plugins: [
+            "babel-plugin-transform-class-properties",
+            "@babel/plugin-transform-arrow-functions"
+          ]
         }
       }
     }]
