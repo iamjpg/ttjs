@@ -1,23 +1,28 @@
 <template>
   <section>
-    <h1>Here we go!</h1>
-    <platypus-button></platypus-button>
+    <Header />
   </section>
 </template>
 
 <script>
-  import Button from './platypus.js';
+  import Header from './vue/components/Header.vue';
 
   export default {
     data() {
       return {}
     },
     mounted() {
-      Button();
+
+    },
+    components: {
+      Header
     }
   }
 </script>
 
 <style>
-
+  body {
+    padding: 0;
+    margin: 0;
+  }
 </style>
