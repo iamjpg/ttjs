@@ -1,9 +1,15 @@
 const path = require('path');
+const HTMLWebpackPlugin = require('html-webpack-plugin');
+const { VueLoaderPlugin } = require('vue-loader');
+const { HotModuleReplacementPlugin } = require('webpack');
 
 module.exports = {
-  entry: './src/main.js',
+  entry: {
+    platypus: './src/platypus.js',
+    app: './src/app.js'
+  },
   output: {
-    filename: 'platypus.bundle.js',
+    filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist')
   },
   mode: 'none',
@@ -17,10 +23,29 @@ module.exports = {
         ],
         loader: "babel-loader"
       },
+      {
+        test: /\.vue$/,
+        loader: 'vue-loader'
+      },
+      {
+        test: /\.css$/,
+        use: [
+          'vue-style-loader',
+          'css-loader',
+        ]
+      }
     ]
   },
   plugins: [
-
+    new HotModuleReplacementPlugin(),
+    new VueLoaderPlugin(),
+    new HTMLWebpackPlugin({
+      showErrors: true,
+      cache: false,
+      title: 'Platypus Vue Proof of Concept',
+      favicon: path.resolve(__dirname, 'dist/favicon.ico'),
+      template: path.resolve(__dirname, 'dist/index.html')
+    })
   ],
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
