@@ -1,8 +1,10 @@
 <template>
   <section>
     <LeftNav />
-    <div id="main-content">
-      <router-view></router-view>
+    <div id="main-content-wrapper">
+      <div id="main-content">
+        <router-view></router-view>
+      </div>
     </div>
   </section>
 </template>
@@ -32,10 +34,14 @@
     margin: 0;
   }
   h1, h2, h3, h4, h5 {
-    font-family: 'Bitter', serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  #main-content-wrapper {
+    margin-left: 250px;
   }
   #main-content {
-    margin-left: 250px;
+    margin: auto;
+    max-width: 940px;
     padding: 50px;
   }
 </style>
