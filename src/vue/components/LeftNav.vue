@@ -76,16 +76,13 @@ export default {
 
     ul {
       list-style: none;
-      margin: 0;
+      margin: 12px 0 0 0;
       padding: 0;
 
-      a:hover {
-        text-decoration: none;
-      }
-
       li:not(.title) {
-        padding: 15px 25px;
-        border-bottom: 1px solid #e6e6e6;
+        padding: 8px 25px;
+        margin-left: 10px;
+        // border-bottom: 1px solid #e6e6e6;
       }
 
       li.title {
@@ -95,7 +92,6 @@ export default {
       }
 
       li:not(.title):hover {
-        background: #f5f5f5;
         cursor: pointer;
       }
 

@@ -14,14 +14,20 @@
         In an attempt to "eat our own dog food" the site you're currently viewing is a VueJS application loading Turntable components written in lit-element. 
         For more information on framework integration, feel free to jump ahead.
       </p>
+      <p><Gist username="iamjpg" hash="d6508d5fcf69c6cfd752bc29d86d99b0"></Gist></p>
     </div>
   </section>
 </template>
 
 <script>
+  import Gist from '../components/Gist.vue';
+
   export default {
     data() {
       return {}
+    },
+    components: {
+      Gist
     }
   }
 </script>
