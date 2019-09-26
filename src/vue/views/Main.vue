@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1>Here we go!</h1>
+    <h1>Welcome to Turntable Components</h1>
   </section>
 </template>
 

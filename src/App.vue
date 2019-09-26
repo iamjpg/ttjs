@@ -1,6 +1,9 @@
 <template>
   <section>
     <LeftNav />
+    <div id="main-content">
+      <router-view></router-view>
+    </div>
   </section>
 </template>
 
@@ -30,5 +33,9 @@
   }
   h1, h2, h3, h4, h5 {
     font-family: 'Bitter', serif;
+  }
+  #main-content {
+    margin-left: 250px;
+    padding: 50px;
   }
 </style>
