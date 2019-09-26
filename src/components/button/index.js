@@ -23,5 +23,11 @@ class Button extends LitElement {
     `;
   }
 }
-// Register the new element with the browser.
-customElements.define('platypus-button', Button);
+
+/* export default (function() {
+  customElements.define('platypus-button', Button);
+})(); */
+
+export default function PlatypusButton() {
+  customElements.define('platypus-button', Button);
+}
