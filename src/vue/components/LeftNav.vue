@@ -6,9 +6,15 @@
     </div>
     <ul>
       <li class="title">Getting Started</li>
-      <li>About</li>
-      <li>Installation</li>
-      <li>Framework Integration</li>
+      <router-link to="/">
+        <li>About</li>
+      </router-link>
+      <router-link to="/installation">
+        <li>Installation</li>
+      </router-link>
+      <router-link to="/framework-integration">
+        <li>Framework Integration</li>
+      </router-link>
       <li class="title">CSS</li>
       <li>Typography</li>
       <li>Colors</li>
@@ -72,6 +78,10 @@ export default {
       list-style: none;
       margin: 0;
       padding: 0;
+
+      a:hover {
+        text-decoration: none;
+      }
 
       li:not(.title) {
         padding: 15px 25px;
