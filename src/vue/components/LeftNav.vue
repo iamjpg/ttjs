@@ -1,8 +1,8 @@
 <template>
   <section id="left-nav">
     <div id="logo-container">
-      <img src="../assets/platypus.png" width="120" id="logo">
-      <h4>Platypus Components</h4>
+      <i class="far fa-turntable"></i>
+      <h3>Turntable Components</h3>
     </div>
     <ul>
       <li class="title">Getting Started</li>
@@ -51,8 +51,13 @@ export default {
       border-bottom: 1px solid #e6e6e6;
       margin: 0;
 
-      h4 {
-        margin-top: 6px;
+      i {
+        font-size: 75px;
+        margin: 25px;
+      }
+
+      h3 {
+        margin: 0 0 25px;
       }
 
     }
