@@ -1,11 +1,7 @@
 const path = require('path');
 const HTMLWebpackPlugin = require('html-webpack-plugin');
-const {
-  VueLoaderPlugin
-} = require('vue-loader');
-const {
-  HotModuleReplacementPlugin
-} = require('webpack');
+const { VueLoaderPlugin } = require('vue-loader');
+const { HotModuleReplacementPlugin } = require('webpack');
 
 module.exports = {
   entry: {
@@ -65,7 +61,7 @@ module.exports = {
     new VueLoaderPlugin(),
     new HTMLWebpackPlugin({
       showErrors: true,
-      cache: false,
+      cache: true,
       title: 'Platypus Vue Proof of Concept',
       favicon: path.resolve(__dirname, 'dist/favicon.ico'),
       template: path.resolve(__dirname, 'dist/index.html')

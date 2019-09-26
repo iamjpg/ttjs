@@ -20,5 +20,11 @@ export default new Router({
       name: 'framework-integration',
       component: () => import(/* webpackChunkName: "framework-integration" */ './vue/views/Framework-Integration.vue'),
     }
+    ,
+    {
+      path: '/buttons',
+      name: 'buttons',
+      component: () => import(/* webpackChunkName: "buttons" */ './vue/views/Buttons.vue'),
+    }
   ],
 });

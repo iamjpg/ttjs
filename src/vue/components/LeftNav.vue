@@ -23,7 +23,9 @@
       <li>Box Shadows</li>
       <li>Badges</li>
       <li class="title">Components</li>
-      <li>Buttons</li>
+      <router-link to="/buttons">
+        <li>Buttons</li>
+      </router-link>
       <li>Form Elements</li>
       <li>Toasts</li>
       <li>Cards</li>

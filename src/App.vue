@@ -1,5 +1,5 @@
 <template>
-  <section id="section-main">
+  <section id="section-wrapper">
     <div class="container">
       <LeftNav />
       <div id="main-content-wrapper">
@@ -39,13 +39,15 @@
     font-family: 'Oswald', sans-serif;
   }
 
-  #section-main {
+  #section-wrapper {
 
     .container {
       position: relative;
       margin: auto;
       min-height: 100vh;
       border-right: 1px solid #e6e6e6;
+      //-webkit-box-shadow: 0 0 20px 5px rgba(0,0,0,.2);
+      //box-shadow: 0 0 20px 5px rgba(0,0,0,.2);
     }
 
   }
