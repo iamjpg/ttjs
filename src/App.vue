@@ -1,11 +1,11 @@
 <template>
   <section>
-    <Header />
+    <LeftNav />
   </section>
 </template>
 
 <script>
-  import Header from './vue/components/Header.vue';
+  import LeftNav from './vue/components/LeftNav.vue';
 
   export default {
     data() {
@@ -15,16 +15,19 @@
 
     },
     components: {
-      Header
+      LeftNav
     }
   }
 </script>
 
 <style>
   body {
-    font-family: 'Open Sans', sans-serif;
-    background: #F3F3F3;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: #fff;
     padding: 0;
     margin: 0;
+  }
+  h1, h2, h3, h4, h5 {
+    font-family: 'Bitter', serif;
   }
 </style>
