@@ -1,9 +1,8 @@
 <template>
 <header>
-  <div class="flex-grid">
-    <div class="col">1</div>
-    <div class="col"><img src="./vue/assets/platypus.png" width="120" height="120"></div>
-    <div class="col">3</div>
+  <div>
+    <img src="../assets/platypus2.png" width="200" />
+    <h1>Platypus Components</h1>
   </div>
 </header>
 </template>
@@ -20,11 +19,13 @@ export default {
 </script>
 
 <style>
-.flex-grid {
-  display: flex;
-}
-
-.col {
-  flex: 1;
-}
+  header {
+    padding: 0 0 25px 0;
+  }
+  div {
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+  }
 </style>

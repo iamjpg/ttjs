@@ -1,7 +1,11 @@
 const path = require('path');
 const HTMLWebpackPlugin = require('html-webpack-plugin');
-const { VueLoaderPlugin } = require('vue-loader');
-const { HotModuleReplacementPlugin } = require('webpack');
+const {
+  VueLoaderPlugin
+} = require('vue-loader');
+const {
+  HotModuleReplacementPlugin
+} = require('webpack');
 
 module.exports = {
   entry: {
@@ -14,8 +18,7 @@ module.exports = {
   },
   mode: 'none',
   module: {
-    rules: [
-      {
+    rules: [{
         test: /.js$/,
         // exclude: /node_modules/,
         include: [
@@ -33,6 +36,19 @@ module.exports = {
           'vue-style-loader',
           'css-loader',
         ]
+      },
+      {
+        test: /\.(gif|png|jpe?g|svg)$/i,
+        use: [
+          'file-loader',
+          {
+            loader: 'image-webpack-loader',
+            options: {
+              bypassOnDebug: true, // webpack@1.x
+              disable: true, // webpack@2.x and newer
+            },
+          },
+        ],
       }
     ]
   },
@@ -52,5 +68,10 @@ module.exports = {
     compress: true,
     port: 9000,
     hot: true
+  },
+  resolve: {
+    alias: {
+      src: path.resolve(__dirname, 'src')
+    }
   },
 };
