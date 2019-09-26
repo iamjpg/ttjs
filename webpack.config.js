@@ -9,7 +9,7 @@ const {
 
 module.exports = {
   entry: {
-    platypus: './src/platypus.js',
+    turntable: './src/turntable.js',
     app: './src/app.js'
   },
   output: {
