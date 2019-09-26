@@ -5,7 +5,10 @@
       <h4>Platypus Components</h4>
     </div>
     <ul>
-      <li>Getting Started</li>
+      <li class="title">Getting Started</li>
+      <li>About</li>
+      <li>Installation</li>
+      <li>Framework Integration</li>
       <li class="title">CSS</li>
       <li>Typography</li>
       <li>Colors</li>
