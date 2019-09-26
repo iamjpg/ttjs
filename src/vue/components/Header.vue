@@ -18,14 +18,17 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
   header {
     padding: 0 0 25px 0;
-  }
-  div {
-    text-align: center;
-  }
-  h1 {
-    margin: 0;
+
+    div {
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+
   }
 </style>

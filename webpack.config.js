@@ -38,6 +38,14 @@ module.exports = {
         ]
       },
       {
+        test: /\.scss$/,
+        use: [
+          'vue-style-loader',
+          'css-loader',
+          'sass-loader'
+        ]
+      },
+      {
         test: /\.(gif|png|jpe?g|svg)$/i,
         use: [
           'file-loader',
