@@ -28,7 +28,7 @@
 <style>
   body {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     background: #fff;
     padding: 0;
     margin: 0;

@@ -38,6 +38,8 @@ export default {
 
 <style lang="scss">
   #left-nav {
+    font-size: 14px;
+    line-height: 100%;
     position: fixed;
     top: 0;
     bottom: 0;
