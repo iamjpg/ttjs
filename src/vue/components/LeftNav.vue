@@ -46,11 +46,12 @@ export default {
   #left-nav {
     font-size: 14px;
     line-height: 100%;
-    position: fixed;
+    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     width: 250px;
+    border-left: 1px solid #e6e6e6;
     border-right: 1px solid #e6e6e6;
     background: #fff;
     overflow-y: auto;

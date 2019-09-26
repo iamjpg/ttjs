@@ -1,9 +1,11 @@
 <template>
-  <section>
-    <LeftNav />
-    <div id="main-content-wrapper">
-      <div id="main-content">
-        <router-view></router-view>
+  <section id="section-main">
+    <div class="container">
+      <LeftNav />
+      <div id="main-content-wrapper">
+        <div id="main-content">
+          <router-view></router-view>
+        </div>
       </div>
     </div>
   </section>
@@ -25,7 +27,7 @@
   }
 </script>
 
-<style>
+<style lang="scss">
   body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
@@ -36,6 +38,18 @@
   h1, h2, h3, h4, h5 {
     font-family: 'Oswald', sans-serif;
   }
+
+  #section-main {
+
+    .container {
+      position: relative;
+      margin: auto;
+      min-height: 100vh;
+      border-right: 1px solid #e6e6e6;
+    }
+
+  }
+
   #main-content-wrapper {
     margin-left: 250px;
   }
