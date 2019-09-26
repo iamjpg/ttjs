@@ -40,7 +40,7 @@ export default {
     bottom: 0;
     left: 0;
     width: 250px;
-    border-right: 3px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
     background: #fff;
     overflow-y: auto;
 
@@ -72,6 +72,11 @@ export default {
         font-weight: bold;
         font-style: italic;
         padding: 15px 25px 5px;
+      }
+
+      li:not(.title):hover {
+        background: #f5f5f5;
+        cursor: pointer;
       }
 
     }
