@@ -19,12 +19,16 @@ export default new Router({
       path: '/framework-integration',
       name: 'framework-integration',
       component: () => import(/* webpackChunkName: "framework-integration" */ './vue/views/Framework-Integration.vue'),
-    }
-    ,
+    },
     {
       path: '/buttons',
       name: 'buttons',
       component: () => import(/* webpackChunkName: "buttons" */ './vue/views/Buttons.vue'),
+    },
+    {
+      path: '/colors',
+      name: 'colors',
+      component: () => import(/* webpackChunkName: "colors" */ './vue/views/Colors.vue'),
     }
   ],
 });

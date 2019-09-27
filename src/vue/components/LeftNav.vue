@@ -18,7 +18,9 @@
         </router-link>
         <li class="title">CSS</li>
         <li>Typography</li>
-        <li>Colors</li>
+        <router-link to="/colors">
+          <li>Colors</li>
+        </router-link>
         <li>Grid</li>
         <li>Containers</li>
         <li>Box Shadows</li>

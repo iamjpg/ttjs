@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  @apply text-moxi-blue no-underline;
+  @apply text-blue no-underline;
 }
 
 a:hover {
@@ -66,19 +66,19 @@ a:hover {
 }
 
 .btn-primary {
-  @apply bg-moxi-blue text-white;
+  @apply bg-blue text-white;
 }
 
 .btn-primary:hover {
-  @apply bg-moxi-blue-dark;
+  @apply bg-blue-dark;
 }
 
 .btn-destructive {
-  @apply border-moxi-destructive border-solid border text-moxi-destructive;
+  @apply border-destructive border-solid border text-destructive;
 }
 
 .btn-destructive:hover {
-  @apply bg-moxi-destructive-light text-white;
+  @apply bg-destructive-light text-white;
 }
 
 .btn-dense {
@@ -86,15 +86,15 @@ a:hover {
 }
 
 .btn-blue {
-  @apply bg-moxi-blue text-white;
+  @apply bg-blue text-white;
 }
 
 .btn-blue {
-  @apply bg-moxi-blue text-white;
+  @apply bg-blue text-white;
 }
 
 .btn-blue:hover {
-  @apply bg-moxi-blue-dark text-white;
+  @apply bg-blue-dark text-white;
 }
 
 a.btn:hover {
@@ -559,7 +559,7 @@ p {
 .vp-toast i {
   margin-right: 8px;
   font-size: 24px;
-  @apply text-moxi-green;
+  @apply text-green;
 }
 
 .vp-toast i.info {
@@ -567,7 +567,7 @@ p {
 }
 
 .vp-toast i.error {
-  @apply text-moxi-destructive;
+  @apply text-destructive;
 }
 
 @-webkit-keyframes showtoast {
@@ -625,15 +625,15 @@ p {
 }
 
 .badge.blue {
-  @apply bg-moxi-blue-dark text-white;
+  @apply bg-blue-dark text-white;
 }
 
 .badge.green {
-  @apply bg-moxi-green-dark text-white;
+  @apply bg-green-dark text-white;
 }
 
 .badge.destructive {
-  @apply bg-moxi-destructive text-white;
+  @apply bg-destructive text-white;
 }
 
 /*************************************************************************************

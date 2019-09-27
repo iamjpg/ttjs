@@ -689,43 +689,43 @@ video {
   background-color: #ffffff;
 }
 
-.bg-moxi-blue-dark{
+.bg-blue-dark{
   background-color: #377cbf;
 }
 
-.bg-moxi-blue{
+.bg-blue{
   background-color: #5092d3;
 }
 
-.bg-moxi-blue-light{
+.bg-blue-light{
   background-color: #84b2e0;
 }
 
-.bg-moxi-blue-lightest{
+.bg-blue-lightest{
   background-color: #a7c8e9;
 }
 
-.bg-moxi-green-dark{
+.bg-green-dark{
   background-color: #42a33e;
 }
 
-.bg-moxi-green{
+.bg-green{
   background-color: #50b64c;
 }
 
-.bg-moxi-green-light{
+.bg-green-light{
   background-color: #84cb81;
 }
 
-.bg-moxi-green-lightest{
+.bg-green-lightest{
   background-color: #a7daa5;
 }
 
-.bg-moxi-destructive{
+.bg-destructive{
   background-color: #f44336;
 }
 
-.bg-moxi-destructive-light{
+.bg-destructive-light{
   background-color: #F77B73;
 }
 
@@ -833,43 +833,43 @@ video {
   background-color: #ffffff;
 }
 
-.hover\:bg-moxi-blue-dark:hover{
+.hover\:bg-blue-dark:hover{
   background-color: #377cbf;
 }
 
-.hover\:bg-moxi-blue:hover{
+.hover\:bg-blue:hover{
   background-color: #5092d3;
 }
 
-.hover\:bg-moxi-blue-light:hover{
+.hover\:bg-blue-light:hover{
   background-color: #84b2e0;
 }
 
-.hover\:bg-moxi-blue-lightest:hover{
+.hover\:bg-blue-lightest:hover{
   background-color: #a7c8e9;
 }
 
-.hover\:bg-moxi-green-dark:hover{
+.hover\:bg-green-dark:hover{
   background-color: #42a33e;
 }
 
-.hover\:bg-moxi-green:hover{
+.hover\:bg-green:hover{
   background-color: #50b64c;
 }
 
-.hover\:bg-moxi-green-light:hover{
+.hover\:bg-green-light:hover{
   background-color: #84cb81;
 }
 
-.hover\:bg-moxi-green-lightest:hover{
+.hover\:bg-green-lightest:hover{
   background-color: #a7daa5;
 }
 
-.hover\:bg-moxi-destructive:hover{
+.hover\:bg-destructive:hover{
   background-color: #f44336;
 }
 
-.hover\:bg-moxi-destructive-light:hover{
+.hover\:bg-destructive-light:hover{
   background-color: #F77B73;
 }
 
@@ -977,43 +977,43 @@ video {
   background-color: #ffffff;
 }
 
-.focus\:bg-moxi-blue-dark:focus{
+.focus\:bg-blue-dark:focus{
   background-color: #377cbf;
 }
 
-.focus\:bg-moxi-blue:focus{
+.focus\:bg-blue:focus{
   background-color: #5092d3;
 }
 
-.focus\:bg-moxi-blue-light:focus{
+.focus\:bg-blue-light:focus{
   background-color: #84b2e0;
 }
 
-.focus\:bg-moxi-blue-lightest:focus{
+.focus\:bg-blue-lightest:focus{
   background-color: #a7c8e9;
 }
 
-.focus\:bg-moxi-green-dark:focus{
+.focus\:bg-green-dark:focus{
   background-color: #42a33e;
 }
 
-.focus\:bg-moxi-green:focus{
+.focus\:bg-green:focus{
   background-color: #50b64c;
 }
 
-.focus\:bg-moxi-green-light:focus{
+.focus\:bg-green-light:focus{
   background-color: #84cb81;
 }
 
-.focus\:bg-moxi-green-lightest:focus{
+.focus\:bg-green-lightest:focus{
   background-color: #a7daa5;
 }
 
-.focus\:bg-moxi-destructive:focus{
+.focus\:bg-destructive:focus{
   background-color: #f44336;
 }
 
-.focus\:bg-moxi-destructive-light:focus{
+.focus\:bg-destructive-light:focus{
   background-color: #F77B73;
 }
 
@@ -1201,43 +1201,43 @@ video {
   border-color: #ffffff;
 }
 
-.border-moxi-blue-dark{
+.border-blue-dark{
   border-color: #377cbf;
 }
 
-.border-moxi-blue{
+.border-blue{
   border-color: #5092d3;
 }
 
-.border-moxi-blue-light{
+.border-blue-light{
   border-color: #84b2e0;
 }
 
-.border-moxi-blue-lightest{
+.border-blue-lightest{
   border-color: #a7c8e9;
 }
 
-.border-moxi-green-dark{
+.border-green-dark{
   border-color: #42a33e;
 }
 
-.border-moxi-green{
+.border-green{
   border-color: #50b64c;
 }
 
-.border-moxi-green-light{
+.border-green-light{
   border-color: #84cb81;
 }
 
-.border-moxi-green-lightest{
+.border-green-lightest{
   border-color: #a7daa5;
 }
 
-.border-moxi-destructive{
+.border-destructive{
   border-color: #f44336;
 }
 
-.border-moxi-destructive-light{
+.border-destructive-light{
   border-color: #F77B73;
 }
 
@@ -1345,43 +1345,43 @@ video {
   border-color: #ffffff;
 }
 
-.hover\:border-moxi-blue-dark:hover{
+.hover\:border-blue-dark:hover{
   border-color: #377cbf;
 }
 
-.hover\:border-moxi-blue:hover{
+.hover\:border-blue:hover{
   border-color: #5092d3;
 }
 
-.hover\:border-moxi-blue-light:hover{
+.hover\:border-blue-light:hover{
   border-color: #84b2e0;
 }
 
-.hover\:border-moxi-blue-lightest:hover{
+.hover\:border-blue-lightest:hover{
   border-color: #a7c8e9;
 }
 
-.hover\:border-moxi-green-dark:hover{
+.hover\:border-green-dark:hover{
   border-color: #42a33e;
 }
 
-.hover\:border-moxi-green:hover{
+.hover\:border-green:hover{
   border-color: #50b64c;
 }
 
-.hover\:border-moxi-green-light:hover{
+.hover\:border-green-light:hover{
   border-color: #84cb81;
 }
 
-.hover\:border-moxi-green-lightest:hover{
+.hover\:border-green-lightest:hover{
   border-color: #a7daa5;
 }
 
-.hover\:border-moxi-destructive:hover{
+.hover\:border-destructive:hover{
   border-color: #f44336;
 }
 
-.hover\:border-moxi-destructive-light:hover{
+.hover\:border-destructive-light:hover{
   border-color: #F77B73;
 }
 
@@ -1489,43 +1489,43 @@ video {
   border-color: #ffffff;
 }
 
-.focus\:border-moxi-blue-dark:focus{
+.focus\:border-blue-dark:focus{
   border-color: #377cbf;
 }
 
-.focus\:border-moxi-blue:focus{
+.focus\:border-blue:focus{
   border-color: #5092d3;
 }
 
-.focus\:border-moxi-blue-light:focus{
+.focus\:border-blue-light:focus{
   border-color: #84b2e0;
 }
 
-.focus\:border-moxi-blue-lightest:focus{
+.focus\:border-blue-lightest:focus{
   border-color: #a7c8e9;
 }
 
-.focus\:border-moxi-green-dark:focus{
+.focus\:border-green-dark:focus{
   border-color: #42a33e;
 }
 
-.focus\:border-moxi-green:focus{
+.focus\:border-green:focus{
   border-color: #50b64c;
 }
 
-.focus\:border-moxi-green-light:focus{
+.focus\:border-green-light:focus{
   border-color: #84cb81;
 }
 
-.focus\:border-moxi-green-lightest:focus{
+.focus\:border-green-lightest:focus{
   border-color: #a7daa5;
 }
 
-.focus\:border-moxi-destructive:focus{
+.focus\:border-destructive:focus{
   border-color: #f44336;
 }
 
-.focus\:border-moxi-destructive-light:focus{
+.focus\:border-destructive-light:focus{
   border-color: #F77B73;
 }
 
@@ -5805,203 +5805,203 @@ video {
   color: #ffffff;
 }
 
-.placeholder-moxi-blue-dark::-webkit-input-placeholder{
+.placeholder-blue-dark::-webkit-input-placeholder{
   color: #377cbf;
 }
 
-.placeholder-moxi-blue-dark::-moz-placeholder{
+.placeholder-blue-dark::-moz-placeholder{
   color: #377cbf;
 }
 
-.placeholder-moxi-blue-dark:-ms-input-placeholder{
+.placeholder-blue-dark:-ms-input-placeholder{
   color: #377cbf;
 }
 
-.placeholder-moxi-blue-dark::-ms-input-placeholder{
+.placeholder-blue-dark::-ms-input-placeholder{
   color: #377cbf;
 }
 
-.placeholder-moxi-blue-dark::placeholder{
+.placeholder-blue-dark::placeholder{
   color: #377cbf;
 }
 
-.placeholder-moxi-blue::-webkit-input-placeholder{
+.placeholder-blue::-webkit-input-placeholder{
   color: #5092d3;
 }
 
-.placeholder-moxi-blue::-moz-placeholder{
+.placeholder-blue::-moz-placeholder{
   color: #5092d3;
 }
 
-.placeholder-moxi-blue:-ms-input-placeholder{
+.placeholder-blue:-ms-input-placeholder{
   color: #5092d3;
 }
 
-.placeholder-moxi-blue::-ms-input-placeholder{
+.placeholder-blue::-ms-input-placeholder{
   color: #5092d3;
 }
 
-.placeholder-moxi-blue::placeholder{
+.placeholder-blue::placeholder{
   color: #5092d3;
 }
 
-.placeholder-moxi-blue-light::-webkit-input-placeholder{
+.placeholder-blue-light::-webkit-input-placeholder{
   color: #84b2e0;
 }
 
-.placeholder-moxi-blue-light::-moz-placeholder{
+.placeholder-blue-light::-moz-placeholder{
   color: #84b2e0;
 }
 
-.placeholder-moxi-blue-light:-ms-input-placeholder{
+.placeholder-blue-light:-ms-input-placeholder{
   color: #84b2e0;
 }
 
-.placeholder-moxi-blue-light::-ms-input-placeholder{
+.placeholder-blue-light::-ms-input-placeholder{
   color: #84b2e0;
 }
 
-.placeholder-moxi-blue-light::placeholder{
+.placeholder-blue-light::placeholder{
   color: #84b2e0;
 }
 
-.placeholder-moxi-blue-lightest::-webkit-input-placeholder{
+.placeholder-blue-lightest::-webkit-input-placeholder{
   color: #a7c8e9;
 }
 
-.placeholder-moxi-blue-lightest::-moz-placeholder{
+.placeholder-blue-lightest::-moz-placeholder{
   color: #a7c8e9;
 }
 
-.placeholder-moxi-blue-lightest:-ms-input-placeholder{
+.placeholder-blue-lightest:-ms-input-placeholder{
   color: #a7c8e9;
 }
 
-.placeholder-moxi-blue-lightest::-ms-input-placeholder{
+.placeholder-blue-lightest::-ms-input-placeholder{
   color: #a7c8e9;
 }
 
-.placeholder-moxi-blue-lightest::placeholder{
+.placeholder-blue-lightest::placeholder{
   color: #a7c8e9;
 }
 
-.placeholder-moxi-green-dark::-webkit-input-placeholder{
+.placeholder-green-dark::-webkit-input-placeholder{
   color: #42a33e;
 }
 
-.placeholder-moxi-green-dark::-moz-placeholder{
+.placeholder-green-dark::-moz-placeholder{
   color: #42a33e;
 }
 
-.placeholder-moxi-green-dark:-ms-input-placeholder{
+.placeholder-green-dark:-ms-input-placeholder{
   color: #42a33e;
 }
 
-.placeholder-moxi-green-dark::-ms-input-placeholder{
+.placeholder-green-dark::-ms-input-placeholder{
   color: #42a33e;
 }
 
-.placeholder-moxi-green-dark::placeholder{
+.placeholder-green-dark::placeholder{
   color: #42a33e;
 }
 
-.placeholder-moxi-green::-webkit-input-placeholder{
+.placeholder-green::-webkit-input-placeholder{
   color: #50b64c;
 }
 
-.placeholder-moxi-green::-moz-placeholder{
+.placeholder-green::-moz-placeholder{
   color: #50b64c;
 }
 
-.placeholder-moxi-green:-ms-input-placeholder{
+.placeholder-green:-ms-input-placeholder{
   color: #50b64c;
 }
 
-.placeholder-moxi-green::-ms-input-placeholder{
+.placeholder-green::-ms-input-placeholder{
   color: #50b64c;
 }
 
-.placeholder-moxi-green::placeholder{
+.placeholder-green::placeholder{
   color: #50b64c;
 }
 
-.placeholder-moxi-green-light::-webkit-input-placeholder{
+.placeholder-green-light::-webkit-input-placeholder{
   color: #84cb81;
 }
 
-.placeholder-moxi-green-light::-moz-placeholder{
+.placeholder-green-light::-moz-placeholder{
   color: #84cb81;
 }
 
-.placeholder-moxi-green-light:-ms-input-placeholder{
+.placeholder-green-light:-ms-input-placeholder{
   color: #84cb81;
 }
 
-.placeholder-moxi-green-light::-ms-input-placeholder{
+.placeholder-green-light::-ms-input-placeholder{
   color: #84cb81;
 }
 
-.placeholder-moxi-green-light::placeholder{
+.placeholder-green-light::placeholder{
   color: #84cb81;
 }
 
-.placeholder-moxi-green-lightest::-webkit-input-placeholder{
+.placeholder-green-lightest::-webkit-input-placeholder{
   color: #a7daa5;
 }
 
-.placeholder-moxi-green-lightest::-moz-placeholder{
+.placeholder-green-lightest::-moz-placeholder{
   color: #a7daa5;
 }
 
-.placeholder-moxi-green-lightest:-ms-input-placeholder{
+.placeholder-green-lightest:-ms-input-placeholder{
   color: #a7daa5;
 }
 
-.placeholder-moxi-green-lightest::-ms-input-placeholder{
+.placeholder-green-lightest::-ms-input-placeholder{
   color: #a7daa5;
 }
 
-.placeholder-moxi-green-lightest::placeholder{
+.placeholder-green-lightest::placeholder{
   color: #a7daa5;
 }
 
-.placeholder-moxi-destructive::-webkit-input-placeholder{
+.placeholder-destructive::-webkit-input-placeholder{
   color: #f44336;
 }
 
-.placeholder-moxi-destructive::-moz-placeholder{
+.placeholder-destructive::-moz-placeholder{
   color: #f44336;
 }
 
-.placeholder-moxi-destructive:-ms-input-placeholder{
+.placeholder-destructive:-ms-input-placeholder{
   color: #f44336;
 }
 
-.placeholder-moxi-destructive::-ms-input-placeholder{
+.placeholder-destructive::-ms-input-placeholder{
   color: #f44336;
 }
 
-.placeholder-moxi-destructive::placeholder{
+.placeholder-destructive::placeholder{
   color: #f44336;
 }
 
-.placeholder-moxi-destructive-light::-webkit-input-placeholder{
+.placeholder-destructive-light::-webkit-input-placeholder{
   color: #F77B73;
 }
 
-.placeholder-moxi-destructive-light::-moz-placeholder{
+.placeholder-destructive-light::-moz-placeholder{
   color: #F77B73;
 }
 
-.placeholder-moxi-destructive-light:-ms-input-placeholder{
+.placeholder-destructive-light:-ms-input-placeholder{
   color: #F77B73;
 }
 
-.placeholder-moxi-destructive-light::-ms-input-placeholder{
+.placeholder-destructive-light::-ms-input-placeholder{
   color: #F77B73;
 }
 
-.placeholder-moxi-destructive-light::placeholder{
+.placeholder-destructive-light::placeholder{
   color: #F77B73;
 }
 
@@ -6525,203 +6525,203 @@ video {
   color: #ffffff;
 }
 
-.focus\:placeholder-moxi-blue-dark:focus::-webkit-input-placeholder{
+.focus\:placeholder-blue-dark:focus::-webkit-input-placeholder{
   color: #377cbf;
 }
 
-.focus\:placeholder-moxi-blue-dark:focus::-moz-placeholder{
+.focus\:placeholder-blue-dark:focus::-moz-placeholder{
   color: #377cbf;
 }
 
-.focus\:placeholder-moxi-blue-dark:focus:-ms-input-placeholder{
+.focus\:placeholder-blue-dark:focus:-ms-input-placeholder{
   color: #377cbf;
 }
 
-.focus\:placeholder-moxi-blue-dark:focus::-ms-input-placeholder{
+.focus\:placeholder-blue-dark:focus::-ms-input-placeholder{
   color: #377cbf;
 }
 
-.focus\:placeholder-moxi-blue-dark:focus::placeholder{
+.focus\:placeholder-blue-dark:focus::placeholder{
   color: #377cbf;
 }
 
-.focus\:placeholder-moxi-blue:focus::-webkit-input-placeholder{
+.focus\:placeholder-blue:focus::-webkit-input-placeholder{
   color: #5092d3;
 }
 
-.focus\:placeholder-moxi-blue:focus::-moz-placeholder{
+.focus\:placeholder-blue:focus::-moz-placeholder{
   color: #5092d3;
 }
 
-.focus\:placeholder-moxi-blue:focus:-ms-input-placeholder{
+.focus\:placeholder-blue:focus:-ms-input-placeholder{
   color: #5092d3;
 }
 
-.focus\:placeholder-moxi-blue:focus::-ms-input-placeholder{
+.focus\:placeholder-blue:focus::-ms-input-placeholder{
   color: #5092d3;
 }
 
-.focus\:placeholder-moxi-blue:focus::placeholder{
+.focus\:placeholder-blue:focus::placeholder{
   color: #5092d3;
 }
 
-.focus\:placeholder-moxi-blue-light:focus::-webkit-input-placeholder{
+.focus\:placeholder-blue-light:focus::-webkit-input-placeholder{
   color: #84b2e0;
 }
 
-.focus\:placeholder-moxi-blue-light:focus::-moz-placeholder{
+.focus\:placeholder-blue-light:focus::-moz-placeholder{
   color: #84b2e0;
 }
 
-.focus\:placeholder-moxi-blue-light:focus:-ms-input-placeholder{
+.focus\:placeholder-blue-light:focus:-ms-input-placeholder{
   color: #84b2e0;
 }
 
-.focus\:placeholder-moxi-blue-light:focus::-ms-input-placeholder{
+.focus\:placeholder-blue-light:focus::-ms-input-placeholder{
   color: #84b2e0;
 }
 
-.focus\:placeholder-moxi-blue-light:focus::placeholder{
+.focus\:placeholder-blue-light:focus::placeholder{
   color: #84b2e0;
 }
 
-.focus\:placeholder-moxi-blue-lightest:focus::-webkit-input-placeholder{
+.focus\:placeholder-blue-lightest:focus::-webkit-input-placeholder{
   color: #a7c8e9;
 }
 
-.focus\:placeholder-moxi-blue-lightest:focus::-moz-placeholder{
+.focus\:placeholder-blue-lightest:focus::-moz-placeholder{
   color: #a7c8e9;
 }
 
-.focus\:placeholder-moxi-blue-lightest:focus:-ms-input-placeholder{
+.focus\:placeholder-blue-lightest:focus:-ms-input-placeholder{
   color: #a7c8e9;
 }
 
-.focus\:placeholder-moxi-blue-lightest:focus::-ms-input-placeholder{
+.focus\:placeholder-blue-lightest:focus::-ms-input-placeholder{
   color: #a7c8e9;
 }
 
-.focus\:placeholder-moxi-blue-lightest:focus::placeholder{
+.focus\:placeholder-blue-lightest:focus::placeholder{
   color: #a7c8e9;
 }
 
-.focus\:placeholder-moxi-green-dark:focus::-webkit-input-placeholder{
+.focus\:placeholder-green-dark:focus::-webkit-input-placeholder{
   color: #42a33e;
 }
 
-.focus\:placeholder-moxi-green-dark:focus::-moz-placeholder{
+.focus\:placeholder-green-dark:focus::-moz-placeholder{
   color: #42a33e;
 }
 
-.focus\:placeholder-moxi-green-dark:focus:-ms-input-placeholder{
+.focus\:placeholder-green-dark:focus:-ms-input-placeholder{
   color: #42a33e;
 }
 
-.focus\:placeholder-moxi-green-dark:focus::-ms-input-placeholder{
+.focus\:placeholder-green-dark:focus::-ms-input-placeholder{
   color: #42a33e;
 }
 
-.focus\:placeholder-moxi-green-dark:focus::placeholder{
+.focus\:placeholder-green-dark:focus::placeholder{
   color: #42a33e;
 }
 
-.focus\:placeholder-moxi-green:focus::-webkit-input-placeholder{
+.focus\:placeholder-green:focus::-webkit-input-placeholder{
   color: #50b64c;
 }
 
-.focus\:placeholder-moxi-green:focus::-moz-placeholder{
+.focus\:placeholder-green:focus::-moz-placeholder{
   color: #50b64c;
 }
 
-.focus\:placeholder-moxi-green:focus:-ms-input-placeholder{
+.focus\:placeholder-green:focus:-ms-input-placeholder{
   color: #50b64c;
 }
 
-.focus\:placeholder-moxi-green:focus::-ms-input-placeholder{
+.focus\:placeholder-green:focus::-ms-input-placeholder{
   color: #50b64c;
 }
 
-.focus\:placeholder-moxi-green:focus::placeholder{
+.focus\:placeholder-green:focus::placeholder{
   color: #50b64c;
 }
 
-.focus\:placeholder-moxi-green-light:focus::-webkit-input-placeholder{
+.focus\:placeholder-green-light:focus::-webkit-input-placeholder{
   color: #84cb81;
 }
 
-.focus\:placeholder-moxi-green-light:focus::-moz-placeholder{
+.focus\:placeholder-green-light:focus::-moz-placeholder{
   color: #84cb81;
 }
 
-.focus\:placeholder-moxi-green-light:focus:-ms-input-placeholder{
+.focus\:placeholder-green-light:focus:-ms-input-placeholder{
   color: #84cb81;
 }
 
-.focus\:placeholder-moxi-green-light:focus::-ms-input-placeholder{
+.focus\:placeholder-green-light:focus::-ms-input-placeholder{
   color: #84cb81;
 }
 
-.focus\:placeholder-moxi-green-light:focus::placeholder{
+.focus\:placeholder-green-light:focus::placeholder{
   color: #84cb81;
 }
 
-.focus\:placeholder-moxi-green-lightest:focus::-webkit-input-placeholder{
+.focus\:placeholder-green-lightest:focus::-webkit-input-placeholder{
   color: #a7daa5;
 }
 
-.focus\:placeholder-moxi-green-lightest:focus::-moz-placeholder{
+.focus\:placeholder-green-lightest:focus::-moz-placeholder{
   color: #a7daa5;
 }
 
-.focus\:placeholder-moxi-green-lightest:focus:-ms-input-placeholder{
+.focus\:placeholder-green-lightest:focus:-ms-input-placeholder{
   color: #a7daa5;
 }
 
-.focus\:placeholder-moxi-green-lightest:focus::-ms-input-placeholder{
+.focus\:placeholder-green-lightest:focus::-ms-input-placeholder{
   color: #a7daa5;
 }
 
-.focus\:placeholder-moxi-green-lightest:focus::placeholder{
+.focus\:placeholder-green-lightest:focus::placeholder{
   color: #a7daa5;
 }
 
-.focus\:placeholder-moxi-destructive:focus::-webkit-input-placeholder{
+.focus\:placeholder-destructive:focus::-webkit-input-placeholder{
   color: #f44336;
 }
 
-.focus\:placeholder-moxi-destructive:focus::-moz-placeholder{
+.focus\:placeholder-destructive:focus::-moz-placeholder{
   color: #f44336;
 }
 
-.focus\:placeholder-moxi-destructive:focus:-ms-input-placeholder{
+.focus\:placeholder-destructive:focus:-ms-input-placeholder{
   color: #f44336;
 }
 
-.focus\:placeholder-moxi-destructive:focus::-ms-input-placeholder{
+.focus\:placeholder-destructive:focus::-ms-input-placeholder{
   color: #f44336;
 }
 
-.focus\:placeholder-moxi-destructive:focus::placeholder{
+.focus\:placeholder-destructive:focus::placeholder{
   color: #f44336;
 }
 
-.focus\:placeholder-moxi-destructive-light:focus::-webkit-input-placeholder{
+.focus\:placeholder-destructive-light:focus::-webkit-input-placeholder{
   color: #F77B73;
 }
 
-.focus\:placeholder-moxi-destructive-light:focus::-moz-placeholder{
+.focus\:placeholder-destructive-light:focus::-moz-placeholder{
   color: #F77B73;
 }
 
-.focus\:placeholder-moxi-destructive-light:focus:-ms-input-placeholder{
+.focus\:placeholder-destructive-light:focus:-ms-input-placeholder{
   color: #F77B73;
 }
 
-.focus\:placeholder-moxi-destructive-light:focus::-ms-input-placeholder{
+.focus\:placeholder-destructive-light:focus::-ms-input-placeholder{
   color: #F77B73;
 }
 
-.focus\:placeholder-moxi-destructive-light:focus::placeholder{
+.focus\:placeholder-destructive-light:focus::placeholder{
   color: #F77B73;
 }
 
@@ -7448,43 +7448,43 @@ video {
   color: #ffffff;
 }
 
-.text-moxi-blue-dark{
+.text-blue-dark{
   color: #377cbf;
 }
 
-.text-moxi-blue{
+.text-blue{
   color: #5092d3;
 }
 
-.text-moxi-blue-light{
+.text-blue-light{
   color: #84b2e0;
 }
 
-.text-moxi-blue-lightest{
+.text-blue-lightest{
   color: #a7c8e9;
 }
 
-.text-moxi-green-dark{
+.text-green-dark{
   color: #42a33e;
 }
 
-.text-moxi-green{
+.text-green{
   color: #50b64c;
 }
 
-.text-moxi-green-light{
+.text-green-light{
   color: #84cb81;
 }
 
-.text-moxi-green-lightest{
+.text-green-lightest{
   color: #a7daa5;
 }
 
-.text-moxi-destructive{
+.text-destructive{
   color: #f44336;
 }
 
-.text-moxi-destructive-light{
+.text-destructive-light{
   color: #F77B73;
 }
 
@@ -7592,43 +7592,43 @@ video {
   color: #ffffff;
 }
 
-.hover\:text-moxi-blue-dark:hover{
+.hover\:text-blue-dark:hover{
   color: #377cbf;
 }
 
-.hover\:text-moxi-blue:hover{
+.hover\:text-blue:hover{
   color: #5092d3;
 }
 
-.hover\:text-moxi-blue-light:hover{
+.hover\:text-blue-light:hover{
   color: #84b2e0;
 }
 
-.hover\:text-moxi-blue-lightest:hover{
+.hover\:text-blue-lightest:hover{
   color: #a7c8e9;
 }
 
-.hover\:text-moxi-green-dark:hover{
+.hover\:text-green-dark:hover{
   color: #42a33e;
 }
 
-.hover\:text-moxi-green:hover{
+.hover\:text-green:hover{
   color: #50b64c;
 }
 
-.hover\:text-moxi-green-light:hover{
+.hover\:text-green-light:hover{
   color: #84cb81;
 }
 
-.hover\:text-moxi-green-lightest:hover{
+.hover\:text-green-lightest:hover{
   color: #a7daa5;
 }
 
-.hover\:text-moxi-destructive:hover{
+.hover\:text-destructive:hover{
   color: #f44336;
 }
 
-.hover\:text-moxi-destructive-light:hover{
+.hover\:text-destructive-light:hover{
   color: #F77B73;
 }
 
@@ -7736,43 +7736,43 @@ video {
   color: #ffffff;
 }
 
-.focus\:text-moxi-blue-dark:focus{
+.focus\:text-blue-dark:focus{
   color: #377cbf;
 }
 
-.focus\:text-moxi-blue:focus{
+.focus\:text-blue:focus{
   color: #5092d3;
 }
 
-.focus\:text-moxi-blue-light:focus{
+.focus\:text-blue-light:focus{
   color: #84b2e0;
 }
 
-.focus\:text-moxi-blue-lightest:focus{
+.focus\:text-blue-lightest:focus{
   color: #a7c8e9;
 }
 
-.focus\:text-moxi-green-dark:focus{
+.focus\:text-green-dark:focus{
   color: #42a33e;
 }
 
-.focus\:text-moxi-green:focus{
+.focus\:text-green:focus{
   color: #50b64c;
 }
 
-.focus\:text-moxi-green-light:focus{
+.focus\:text-green-light:focus{
   color: #84cb81;
 }
 
-.focus\:text-moxi-green-lightest:focus{
+.focus\:text-green-lightest:focus{
   color: #a7daa5;
 }
 
-.focus\:text-moxi-destructive:focus{
+.focus\:text-destructive:focus{
   color: #f44336;
 }
 
-.focus\:text-moxi-destructive-light:focus{
+.focus\:text-destructive-light:focus{
   color: #F77B73;
 }
 
@@ -9038,43 +9038,43 @@ p {
     background-color: #ffffff;
   }
 
-  .sm\:bg-moxi-blue-dark{
+  .sm\:bg-blue-dark{
     background-color: #377cbf;
   }
 
-  .sm\:bg-moxi-blue{
+  .sm\:bg-blue{
     background-color: #5092d3;
   }
 
-  .sm\:bg-moxi-blue-light{
+  .sm\:bg-blue-light{
     background-color: #84b2e0;
   }
 
-  .sm\:bg-moxi-blue-lightest{
+  .sm\:bg-blue-lightest{
     background-color: #a7c8e9;
   }
 
-  .sm\:bg-moxi-green-dark{
+  .sm\:bg-green-dark{
     background-color: #42a33e;
   }
 
-  .sm\:bg-moxi-green{
+  .sm\:bg-green{
     background-color: #50b64c;
   }
 
-  .sm\:bg-moxi-green-light{
+  .sm\:bg-green-light{
     background-color: #84cb81;
   }
 
-  .sm\:bg-moxi-green-lightest{
+  .sm\:bg-green-lightest{
     background-color: #a7daa5;
   }
 
-  .sm\:bg-moxi-destructive{
+  .sm\:bg-destructive{
     background-color: #f44336;
   }
 
-  .sm\:bg-moxi-destructive-light{
+  .sm\:bg-destructive-light{
     background-color: #F77B73;
   }
 
@@ -9182,43 +9182,43 @@ p {
     background-color: #ffffff;
   }
 
-  .sm\:hover\:bg-moxi-blue-dark:hover{
+  .sm\:hover\:bg-blue-dark:hover{
     background-color: #377cbf;
   }
 
-  .sm\:hover\:bg-moxi-blue:hover{
+  .sm\:hover\:bg-blue:hover{
     background-color: #5092d3;
   }
 
-  .sm\:hover\:bg-moxi-blue-light:hover{
+  .sm\:hover\:bg-blue-light:hover{
     background-color: #84b2e0;
   }
 
-  .sm\:hover\:bg-moxi-blue-lightest:hover{
+  .sm\:hover\:bg-blue-lightest:hover{
     background-color: #a7c8e9;
   }
 
-  .sm\:hover\:bg-moxi-green-dark:hover{
+  .sm\:hover\:bg-green-dark:hover{
     background-color: #42a33e;
   }
 
-  .sm\:hover\:bg-moxi-green:hover{
+  .sm\:hover\:bg-green:hover{
     background-color: #50b64c;
   }
 
-  .sm\:hover\:bg-moxi-green-light:hover{
+  .sm\:hover\:bg-green-light:hover{
     background-color: #84cb81;
   }
 
-  .sm\:hover\:bg-moxi-green-lightest:hover{
+  .sm\:hover\:bg-green-lightest:hover{
     background-color: #a7daa5;
   }
 
-  .sm\:hover\:bg-moxi-destructive:hover{
+  .sm\:hover\:bg-destructive:hover{
     background-color: #f44336;
   }
 
-  .sm\:hover\:bg-moxi-destructive-light:hover{
+  .sm\:hover\:bg-destructive-light:hover{
     background-color: #F77B73;
   }
 
@@ -9326,43 +9326,43 @@ p {
     background-color: #ffffff;
   }
 
-  .sm\:focus\:bg-moxi-blue-dark:focus{
+  .sm\:focus\:bg-blue-dark:focus{
     background-color: #377cbf;
   }
 
-  .sm\:focus\:bg-moxi-blue:focus{
+  .sm\:focus\:bg-blue:focus{
     background-color: #5092d3;
   }
 
-  .sm\:focus\:bg-moxi-blue-light:focus{
+  .sm\:focus\:bg-blue-light:focus{
     background-color: #84b2e0;
   }
 
-  .sm\:focus\:bg-moxi-blue-lightest:focus{
+  .sm\:focus\:bg-blue-lightest:focus{
     background-color: #a7c8e9;
   }
 
-  .sm\:focus\:bg-moxi-green-dark:focus{
+  .sm\:focus\:bg-green-dark:focus{
     background-color: #42a33e;
   }
 
-  .sm\:focus\:bg-moxi-green:focus{
+  .sm\:focus\:bg-green:focus{
     background-color: #50b64c;
   }
 
-  .sm\:focus\:bg-moxi-green-light:focus{
+  .sm\:focus\:bg-green-light:focus{
     background-color: #84cb81;
   }
 
-  .sm\:focus\:bg-moxi-green-lightest:focus{
+  .sm\:focus\:bg-green-lightest:focus{
     background-color: #a7daa5;
   }
 
-  .sm\:focus\:bg-moxi-destructive:focus{
+  .sm\:focus\:bg-destructive:focus{
     background-color: #f44336;
   }
 
-  .sm\:focus\:bg-moxi-destructive-light:focus{
+  .sm\:focus\:bg-destructive-light:focus{
     background-color: #F77B73;
   }
 
@@ -9550,43 +9550,43 @@ p {
     border-color: #ffffff;
   }
 
-  .sm\:border-moxi-blue-dark{
+  .sm\:border-blue-dark{
     border-color: #377cbf;
   }
 
-  .sm\:border-moxi-blue{
+  .sm\:border-blue{
     border-color: #5092d3;
   }
 
-  .sm\:border-moxi-blue-light{
+  .sm\:border-blue-light{
     border-color: #84b2e0;
   }
 
-  .sm\:border-moxi-blue-lightest{
+  .sm\:border-blue-lightest{
     border-color: #a7c8e9;
   }
 
-  .sm\:border-moxi-green-dark{
+  .sm\:border-green-dark{
     border-color: #42a33e;
   }
 
-  .sm\:border-moxi-green{
+  .sm\:border-green{
     border-color: #50b64c;
   }
 
-  .sm\:border-moxi-green-light{
+  .sm\:border-green-light{
     border-color: #84cb81;
   }
 
-  .sm\:border-moxi-green-lightest{
+  .sm\:border-green-lightest{
     border-color: #a7daa5;
   }
 
-  .sm\:border-moxi-destructive{
+  .sm\:border-destructive{
     border-color: #f44336;
   }
 
-  .sm\:border-moxi-destructive-light{
+  .sm\:border-destructive-light{
     border-color: #F77B73;
   }
 
@@ -9694,43 +9694,43 @@ p {
     border-color: #ffffff;
   }
 
-  .sm\:hover\:border-moxi-blue-dark:hover{
+  .sm\:hover\:border-blue-dark:hover{
     border-color: #377cbf;
   }
 
-  .sm\:hover\:border-moxi-blue:hover{
+  .sm\:hover\:border-blue:hover{
     border-color: #5092d3;
   }
 
-  .sm\:hover\:border-moxi-blue-light:hover{
+  .sm\:hover\:border-blue-light:hover{
     border-color: #84b2e0;
   }
 
-  .sm\:hover\:border-moxi-blue-lightest:hover{
+  .sm\:hover\:border-blue-lightest:hover{
     border-color: #a7c8e9;
   }
 
-  .sm\:hover\:border-moxi-green-dark:hover{
+  .sm\:hover\:border-green-dark:hover{
     border-color: #42a33e;
   }
 
-  .sm\:hover\:border-moxi-green:hover{
+  .sm\:hover\:border-green:hover{
     border-color: #50b64c;
   }
 
-  .sm\:hover\:border-moxi-green-light:hover{
+  .sm\:hover\:border-green-light:hover{
     border-color: #84cb81;
   }
 
-  .sm\:hover\:border-moxi-green-lightest:hover{
+  .sm\:hover\:border-green-lightest:hover{
     border-color: #a7daa5;
   }
 
-  .sm\:hover\:border-moxi-destructive:hover{
+  .sm\:hover\:border-destructive:hover{
     border-color: #f44336;
   }
 
-  .sm\:hover\:border-moxi-destructive-light:hover{
+  .sm\:hover\:border-destructive-light:hover{
     border-color: #F77B73;
   }
 
@@ -9838,43 +9838,43 @@ p {
     border-color: #ffffff;
   }
 
-  .sm\:focus\:border-moxi-blue-dark:focus{
+  .sm\:focus\:border-blue-dark:focus{
     border-color: #377cbf;
   }
 
-  .sm\:focus\:border-moxi-blue:focus{
+  .sm\:focus\:border-blue:focus{
     border-color: #5092d3;
   }
 
-  .sm\:focus\:border-moxi-blue-light:focus{
+  .sm\:focus\:border-blue-light:focus{
     border-color: #84b2e0;
   }
 
-  .sm\:focus\:border-moxi-blue-lightest:focus{
+  .sm\:focus\:border-blue-lightest:focus{
     border-color: #a7c8e9;
   }
 
-  .sm\:focus\:border-moxi-green-dark:focus{
+  .sm\:focus\:border-green-dark:focus{
     border-color: #42a33e;
   }
 
-  .sm\:focus\:border-moxi-green:focus{
+  .sm\:focus\:border-green:focus{
     border-color: #50b64c;
   }
 
-  .sm\:focus\:border-moxi-green-light:focus{
+  .sm\:focus\:border-green-light:focus{
     border-color: #84cb81;
   }
 
-  .sm\:focus\:border-moxi-green-lightest:focus{
+  .sm\:focus\:border-green-lightest:focus{
     border-color: #a7daa5;
   }
 
-  .sm\:focus\:border-moxi-destructive:focus{
+  .sm\:focus\:border-destructive:focus{
     border-color: #f44336;
   }
 
-  .sm\:focus\:border-moxi-destructive-light:focus{
+  .sm\:focus\:border-destructive-light:focus{
     border-color: #F77B73;
   }
 
@@ -14154,203 +14154,203 @@ p {
     color: #ffffff;
   }
 
-  .sm\:placeholder-moxi-blue-dark::-webkit-input-placeholder{
+  .sm\:placeholder-blue-dark::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:placeholder-moxi-blue-dark::-moz-placeholder{
+  .sm\:placeholder-blue-dark::-moz-placeholder{
     color: #377cbf;
   }
 
-  .sm\:placeholder-moxi-blue-dark:-ms-input-placeholder{
+  .sm\:placeholder-blue-dark:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:placeholder-moxi-blue-dark::-ms-input-placeholder{
+  .sm\:placeholder-blue-dark::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:placeholder-moxi-blue-dark::placeholder{
+  .sm\:placeholder-blue-dark::placeholder{
     color: #377cbf;
   }
 
-  .sm\:placeholder-moxi-blue::-webkit-input-placeholder{
+  .sm\:placeholder-blue::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:placeholder-moxi-blue::-moz-placeholder{
+  .sm\:placeholder-blue::-moz-placeholder{
     color: #5092d3;
   }
 
-  .sm\:placeholder-moxi-blue:-ms-input-placeholder{
+  .sm\:placeholder-blue:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:placeholder-moxi-blue::-ms-input-placeholder{
+  .sm\:placeholder-blue::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:placeholder-moxi-blue::placeholder{
+  .sm\:placeholder-blue::placeholder{
     color: #5092d3;
   }
 
-  .sm\:placeholder-moxi-blue-light::-webkit-input-placeholder{
+  .sm\:placeholder-blue-light::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:placeholder-moxi-blue-light::-moz-placeholder{
+  .sm\:placeholder-blue-light::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:placeholder-moxi-blue-light:-ms-input-placeholder{
+  .sm\:placeholder-blue-light:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:placeholder-moxi-blue-light::-ms-input-placeholder{
+  .sm\:placeholder-blue-light::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:placeholder-moxi-blue-light::placeholder{
+  .sm\:placeholder-blue-light::placeholder{
     color: #84b2e0;
   }
 
-  .sm\:placeholder-moxi-blue-lightest::-webkit-input-placeholder{
+  .sm\:placeholder-blue-lightest::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:placeholder-moxi-blue-lightest::-moz-placeholder{
+  .sm\:placeholder-blue-lightest::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:placeholder-moxi-blue-lightest:-ms-input-placeholder{
+  .sm\:placeholder-blue-lightest:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:placeholder-moxi-blue-lightest::-ms-input-placeholder{
+  .sm\:placeholder-blue-lightest::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:placeholder-moxi-blue-lightest::placeholder{
+  .sm\:placeholder-blue-lightest::placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:placeholder-moxi-green-dark::-webkit-input-placeholder{
+  .sm\:placeholder-green-dark::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:placeholder-moxi-green-dark::-moz-placeholder{
+  .sm\:placeholder-green-dark::-moz-placeholder{
     color: #42a33e;
   }
 
-  .sm\:placeholder-moxi-green-dark:-ms-input-placeholder{
+  .sm\:placeholder-green-dark:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:placeholder-moxi-green-dark::-ms-input-placeholder{
+  .sm\:placeholder-green-dark::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:placeholder-moxi-green-dark::placeholder{
+  .sm\:placeholder-green-dark::placeholder{
     color: #42a33e;
   }
 
-  .sm\:placeholder-moxi-green::-webkit-input-placeholder{
+  .sm\:placeholder-green::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:placeholder-moxi-green::-moz-placeholder{
+  .sm\:placeholder-green::-moz-placeholder{
     color: #50b64c;
   }
 
-  .sm\:placeholder-moxi-green:-ms-input-placeholder{
+  .sm\:placeholder-green:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:placeholder-moxi-green::-ms-input-placeholder{
+  .sm\:placeholder-green::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:placeholder-moxi-green::placeholder{
+  .sm\:placeholder-green::placeholder{
     color: #50b64c;
   }
 
-  .sm\:placeholder-moxi-green-light::-webkit-input-placeholder{
+  .sm\:placeholder-green-light::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:placeholder-moxi-green-light::-moz-placeholder{
+  .sm\:placeholder-green-light::-moz-placeholder{
     color: #84cb81;
   }
 
-  .sm\:placeholder-moxi-green-light:-ms-input-placeholder{
+  .sm\:placeholder-green-light:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:placeholder-moxi-green-light::-ms-input-placeholder{
+  .sm\:placeholder-green-light::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:placeholder-moxi-green-light::placeholder{
+  .sm\:placeholder-green-light::placeholder{
     color: #84cb81;
   }
 
-  .sm\:placeholder-moxi-green-lightest::-webkit-input-placeholder{
+  .sm\:placeholder-green-lightest::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:placeholder-moxi-green-lightest::-moz-placeholder{
+  .sm\:placeholder-green-lightest::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:placeholder-moxi-green-lightest:-ms-input-placeholder{
+  .sm\:placeholder-green-lightest:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:placeholder-moxi-green-lightest::-ms-input-placeholder{
+  .sm\:placeholder-green-lightest::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:placeholder-moxi-green-lightest::placeholder{
+  .sm\:placeholder-green-lightest::placeholder{
     color: #a7daa5;
   }
 
-  .sm\:placeholder-moxi-destructive::-webkit-input-placeholder{
+  .sm\:placeholder-destructive::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:placeholder-moxi-destructive::-moz-placeholder{
+  .sm\:placeholder-destructive::-moz-placeholder{
     color: #f44336;
   }
 
-  .sm\:placeholder-moxi-destructive:-ms-input-placeholder{
+  .sm\:placeholder-destructive:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:placeholder-moxi-destructive::-ms-input-placeholder{
+  .sm\:placeholder-destructive::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:placeholder-moxi-destructive::placeholder{
+  .sm\:placeholder-destructive::placeholder{
     color: #f44336;
   }
 
-  .sm\:placeholder-moxi-destructive-light::-webkit-input-placeholder{
+  .sm\:placeholder-destructive-light::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:placeholder-moxi-destructive-light::-moz-placeholder{
+  .sm\:placeholder-destructive-light::-moz-placeholder{
     color: #F77B73;
   }
 
-  .sm\:placeholder-moxi-destructive-light:-ms-input-placeholder{
+  .sm\:placeholder-destructive-light:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:placeholder-moxi-destructive-light::-ms-input-placeholder{
+  .sm\:placeholder-destructive-light::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:placeholder-moxi-destructive-light::placeholder{
+  .sm\:placeholder-destructive-light::placeholder{
     color: #F77B73;
   }
 
@@ -14874,203 +14874,203 @@ p {
     color: #ffffff;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-dark:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-blue-dark:focus::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-dark:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-blue-dark:focus::-moz-placeholder{
     color: #377cbf;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-dark:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-dark:focus:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-dark:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-dark:focus::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-dark:focus::placeholder{
+  .sm\:focus\:placeholder-blue-dark:focus::placeholder{
     color: #377cbf;
   }
 
-  .sm\:focus\:placeholder-moxi-blue:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-blue:focus::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:focus\:placeholder-moxi-blue:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-blue:focus::-moz-placeholder{
     color: #5092d3;
   }
 
-  .sm\:focus\:placeholder-moxi-blue:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue:focus:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:focus\:placeholder-moxi-blue:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue:focus::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .sm\:focus\:placeholder-moxi-blue:focus::placeholder{
+  .sm\:focus\:placeholder-blue:focus::placeholder{
     color: #5092d3;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-light:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-blue-light:focus::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-light:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-blue-light:focus::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-light:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-light:focus:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-light:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-light:focus::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-light:focus::placeholder{
+  .sm\:focus\:placeholder-blue-light:focus::placeholder{
     color: #84b2e0;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-lightest:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-blue-lightest:focus::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-lightest:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-blue-lightest:focus::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-lightest:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-lightest:focus:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-lightest:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-blue-lightest:focus::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:placeholder-moxi-blue-lightest:focus::placeholder{
+  .sm\:focus\:placeholder-blue-lightest:focus::placeholder{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:placeholder-moxi-green-dark:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-green-dark:focus::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:focus\:placeholder-moxi-green-dark:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-green-dark:focus::-moz-placeholder{
     color: #42a33e;
   }
 
-  .sm\:focus\:placeholder-moxi-green-dark:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-dark:focus:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:focus\:placeholder-moxi-green-dark:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-dark:focus::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .sm\:focus\:placeholder-moxi-green-dark:focus::placeholder{
+  .sm\:focus\:placeholder-green-dark:focus::placeholder{
     color: #42a33e;
   }
 
-  .sm\:focus\:placeholder-moxi-green:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-green:focus::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:focus\:placeholder-moxi-green:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-green:focus::-moz-placeholder{
     color: #50b64c;
   }
 
-  .sm\:focus\:placeholder-moxi-green:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-green:focus:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:focus\:placeholder-moxi-green:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-green:focus::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .sm\:focus\:placeholder-moxi-green:focus::placeholder{
+  .sm\:focus\:placeholder-green:focus::placeholder{
     color: #50b64c;
   }
 
-  .sm\:focus\:placeholder-moxi-green-light:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-green-light:focus::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:focus\:placeholder-moxi-green-light:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-green-light:focus::-moz-placeholder{
     color: #84cb81;
   }
 
-  .sm\:focus\:placeholder-moxi-green-light:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-light:focus:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:focus\:placeholder-moxi-green-light:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-light:focus::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .sm\:focus\:placeholder-moxi-green-light:focus::placeholder{
+  .sm\:focus\:placeholder-green-light:focus::placeholder{
     color: #84cb81;
   }
 
-  .sm\:focus\:placeholder-moxi-green-lightest:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-green-lightest:focus::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:focus\:placeholder-moxi-green-lightest:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-green-lightest:focus::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:focus\:placeholder-moxi-green-lightest:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-lightest:focus:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:focus\:placeholder-moxi-green-lightest:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-green-lightest:focus::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .sm\:focus\:placeholder-moxi-green-lightest:focus::placeholder{
+  .sm\:focus\:placeholder-green-lightest:focus::placeholder{
     color: #a7daa5;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-destructive:focus::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-destructive:focus::-moz-placeholder{
     color: #f44336;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-destructive:focus:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-destructive:focus::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive:focus::placeholder{
+  .sm\:focus\:placeholder-destructive:focus::placeholder{
     color: #f44336;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive-light:focus::-webkit-input-placeholder{
+  .sm\:focus\:placeholder-destructive-light:focus::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive-light:focus::-moz-placeholder{
+  .sm\:focus\:placeholder-destructive-light:focus::-moz-placeholder{
     color: #F77B73;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive-light:focus:-ms-input-placeholder{
+  .sm\:focus\:placeholder-destructive-light:focus:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive-light:focus::-ms-input-placeholder{
+  .sm\:focus\:placeholder-destructive-light:focus::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .sm\:focus\:placeholder-moxi-destructive-light:focus::placeholder{
+  .sm\:focus\:placeholder-destructive-light:focus::placeholder{
     color: #F77B73;
   }
 
@@ -15797,43 +15797,43 @@ p {
     color: #ffffff;
   }
 
-  .sm\:text-moxi-blue-dark{
+  .sm\:text-blue-dark{
     color: #377cbf;
   }
 
-  .sm\:text-moxi-blue{
+  .sm\:text-blue{
     color: #5092d3;
   }
 
-  .sm\:text-moxi-blue-light{
+  .sm\:text-blue-light{
     color: #84b2e0;
   }
 
-  .sm\:text-moxi-blue-lightest{
+  .sm\:text-blue-lightest{
     color: #a7c8e9;
   }
 
-  .sm\:text-moxi-green-dark{
+  .sm\:text-green-dark{
     color: #42a33e;
   }
 
-  .sm\:text-moxi-green{
+  .sm\:text-green{
     color: #50b64c;
   }
 
-  .sm\:text-moxi-green-light{
+  .sm\:text-green-light{
     color: #84cb81;
   }
 
-  .sm\:text-moxi-green-lightest{
+  .sm\:text-green-lightest{
     color: #a7daa5;
   }
 
-  .sm\:text-moxi-destructive{
+  .sm\:text-destructive{
     color: #f44336;
   }
 
-  .sm\:text-moxi-destructive-light{
+  .sm\:text-destructive-light{
     color: #F77B73;
   }
 
@@ -15941,43 +15941,43 @@ p {
     color: #ffffff;
   }
 
-  .sm\:hover\:text-moxi-blue-dark:hover{
+  .sm\:hover\:text-blue-dark:hover{
     color: #377cbf;
   }
 
-  .sm\:hover\:text-moxi-blue:hover{
+  .sm\:hover\:text-blue:hover{
     color: #5092d3;
   }
 
-  .sm\:hover\:text-moxi-blue-light:hover{
+  .sm\:hover\:text-blue-light:hover{
     color: #84b2e0;
   }
 
-  .sm\:hover\:text-moxi-blue-lightest:hover{
+  .sm\:hover\:text-blue-lightest:hover{
     color: #a7c8e9;
   }
 
-  .sm\:hover\:text-moxi-green-dark:hover{
+  .sm\:hover\:text-green-dark:hover{
     color: #42a33e;
   }
 
-  .sm\:hover\:text-moxi-green:hover{
+  .sm\:hover\:text-green:hover{
     color: #50b64c;
   }
 
-  .sm\:hover\:text-moxi-green-light:hover{
+  .sm\:hover\:text-green-light:hover{
     color: #84cb81;
   }
 
-  .sm\:hover\:text-moxi-green-lightest:hover{
+  .sm\:hover\:text-green-lightest:hover{
     color: #a7daa5;
   }
 
-  .sm\:hover\:text-moxi-destructive:hover{
+  .sm\:hover\:text-destructive:hover{
     color: #f44336;
   }
 
-  .sm\:hover\:text-moxi-destructive-light:hover{
+  .sm\:hover\:text-destructive-light:hover{
     color: #F77B73;
   }
 
@@ -16085,43 +16085,43 @@ p {
     color: #ffffff;
   }
 
-  .sm\:focus\:text-moxi-blue-dark:focus{
+  .sm\:focus\:text-blue-dark:focus{
     color: #377cbf;
   }
 
-  .sm\:focus\:text-moxi-blue:focus{
+  .sm\:focus\:text-blue:focus{
     color: #5092d3;
   }
 
-  .sm\:focus\:text-moxi-blue-light:focus{
+  .sm\:focus\:text-blue-light:focus{
     color: #84b2e0;
   }
 
-  .sm\:focus\:text-moxi-blue-lightest:focus{
+  .sm\:focus\:text-blue-lightest:focus{
     color: #a7c8e9;
   }
 
-  .sm\:focus\:text-moxi-green-dark:focus{
+  .sm\:focus\:text-green-dark:focus{
     color: #42a33e;
   }
 
-  .sm\:focus\:text-moxi-green:focus{
+  .sm\:focus\:text-green:focus{
     color: #50b64c;
   }
 
-  .sm\:focus\:text-moxi-green-light:focus{
+  .sm\:focus\:text-green-light:focus{
     color: #84cb81;
   }
 
-  .sm\:focus\:text-moxi-green-lightest:focus{
+  .sm\:focus\:text-green-lightest:focus{
     color: #a7daa5;
   }
 
-  .sm\:focus\:text-moxi-destructive:focus{
+  .sm\:focus\:text-destructive:focus{
     color: #f44336;
   }
 
-  .sm\:focus\:text-moxi-destructive-light:focus{
+  .sm\:focus\:text-destructive-light:focus{
     color: #F77B73;
   }
 
@@ -16672,43 +16672,43 @@ p {
     background-color: #ffffff;
   }
 
-  .md\:bg-moxi-blue-dark{
+  .md\:bg-blue-dark{
     background-color: #377cbf;
   }
 
-  .md\:bg-moxi-blue{
+  .md\:bg-blue{
     background-color: #5092d3;
   }
 
-  .md\:bg-moxi-blue-light{
+  .md\:bg-blue-light{
     background-color: #84b2e0;
   }
 
-  .md\:bg-moxi-blue-lightest{
+  .md\:bg-blue-lightest{
     background-color: #a7c8e9;
   }
 
-  .md\:bg-moxi-green-dark{
+  .md\:bg-green-dark{
     background-color: #42a33e;
   }
 
-  .md\:bg-moxi-green{
+  .md\:bg-green{
     background-color: #50b64c;
   }
 
-  .md\:bg-moxi-green-light{
+  .md\:bg-green-light{
     background-color: #84cb81;
   }
 
-  .md\:bg-moxi-green-lightest{
+  .md\:bg-green-lightest{
     background-color: #a7daa5;
   }
 
-  .md\:bg-moxi-destructive{
+  .md\:bg-destructive{
     background-color: #f44336;
   }
 
-  .md\:bg-moxi-destructive-light{
+  .md\:bg-destructive-light{
     background-color: #F77B73;
   }
 
@@ -16816,43 +16816,43 @@ p {
     background-color: #ffffff;
   }
 
-  .md\:hover\:bg-moxi-blue-dark:hover{
+  .md\:hover\:bg-blue-dark:hover{
     background-color: #377cbf;
   }
 
-  .md\:hover\:bg-moxi-blue:hover{
+  .md\:hover\:bg-blue:hover{
     background-color: #5092d3;
   }
 
-  .md\:hover\:bg-moxi-blue-light:hover{
+  .md\:hover\:bg-blue-light:hover{
     background-color: #84b2e0;
   }
 
-  .md\:hover\:bg-moxi-blue-lightest:hover{
+  .md\:hover\:bg-blue-lightest:hover{
     background-color: #a7c8e9;
   }
 
-  .md\:hover\:bg-moxi-green-dark:hover{
+  .md\:hover\:bg-green-dark:hover{
     background-color: #42a33e;
   }
 
-  .md\:hover\:bg-moxi-green:hover{
+  .md\:hover\:bg-green:hover{
     background-color: #50b64c;
   }
 
-  .md\:hover\:bg-moxi-green-light:hover{
+  .md\:hover\:bg-green-light:hover{
     background-color: #84cb81;
   }
 
-  .md\:hover\:bg-moxi-green-lightest:hover{
+  .md\:hover\:bg-green-lightest:hover{
     background-color: #a7daa5;
   }
 
-  .md\:hover\:bg-moxi-destructive:hover{
+  .md\:hover\:bg-destructive:hover{
     background-color: #f44336;
   }
 
-  .md\:hover\:bg-moxi-destructive-light:hover{
+  .md\:hover\:bg-destructive-light:hover{
     background-color: #F77B73;
   }
 
@@ -16960,43 +16960,43 @@ p {
     background-color: #ffffff;
   }
 
-  .md\:focus\:bg-moxi-blue-dark:focus{
+  .md\:focus\:bg-blue-dark:focus{
     background-color: #377cbf;
   }
 
-  .md\:focus\:bg-moxi-blue:focus{
+  .md\:focus\:bg-blue:focus{
     background-color: #5092d3;
   }
 
-  .md\:focus\:bg-moxi-blue-light:focus{
+  .md\:focus\:bg-blue-light:focus{
     background-color: #84b2e0;
   }
 
-  .md\:focus\:bg-moxi-blue-lightest:focus{
+  .md\:focus\:bg-blue-lightest:focus{
     background-color: #a7c8e9;
   }
 
-  .md\:focus\:bg-moxi-green-dark:focus{
+  .md\:focus\:bg-green-dark:focus{
     background-color: #42a33e;
   }
 
-  .md\:focus\:bg-moxi-green:focus{
+  .md\:focus\:bg-green:focus{
     background-color: #50b64c;
   }
 
-  .md\:focus\:bg-moxi-green-light:focus{
+  .md\:focus\:bg-green-light:focus{
     background-color: #84cb81;
   }
 
-  .md\:focus\:bg-moxi-green-lightest:focus{
+  .md\:focus\:bg-green-lightest:focus{
     background-color: #a7daa5;
   }
 
-  .md\:focus\:bg-moxi-destructive:focus{
+  .md\:focus\:bg-destructive:focus{
     background-color: #f44336;
   }
 
-  .md\:focus\:bg-moxi-destructive-light:focus{
+  .md\:focus\:bg-destructive-light:focus{
     background-color: #F77B73;
   }
 
@@ -17184,43 +17184,43 @@ p {
     border-color: #ffffff;
   }
 
-  .md\:border-moxi-blue-dark{
+  .md\:border-blue-dark{
     border-color: #377cbf;
   }
 
-  .md\:border-moxi-blue{
+  .md\:border-blue{
     border-color: #5092d3;
   }
 
-  .md\:border-moxi-blue-light{
+  .md\:border-blue-light{
     border-color: #84b2e0;
   }
 
-  .md\:border-moxi-blue-lightest{
+  .md\:border-blue-lightest{
     border-color: #a7c8e9;
   }
 
-  .md\:border-moxi-green-dark{
+  .md\:border-green-dark{
     border-color: #42a33e;
   }
 
-  .md\:border-moxi-green{
+  .md\:border-green{
     border-color: #50b64c;
   }
 
-  .md\:border-moxi-green-light{
+  .md\:border-green-light{
     border-color: #84cb81;
   }
 
-  .md\:border-moxi-green-lightest{
+  .md\:border-green-lightest{
     border-color: #a7daa5;
   }
 
-  .md\:border-moxi-destructive{
+  .md\:border-destructive{
     border-color: #f44336;
   }
 
-  .md\:border-moxi-destructive-light{
+  .md\:border-destructive-light{
     border-color: #F77B73;
   }
 
@@ -17328,43 +17328,43 @@ p {
     border-color: #ffffff;
   }
 
-  .md\:hover\:border-moxi-blue-dark:hover{
+  .md\:hover\:border-blue-dark:hover{
     border-color: #377cbf;
   }
 
-  .md\:hover\:border-moxi-blue:hover{
+  .md\:hover\:border-blue:hover{
     border-color: #5092d3;
   }
 
-  .md\:hover\:border-moxi-blue-light:hover{
+  .md\:hover\:border-blue-light:hover{
     border-color: #84b2e0;
   }
 
-  .md\:hover\:border-moxi-blue-lightest:hover{
+  .md\:hover\:border-blue-lightest:hover{
     border-color: #a7c8e9;
   }
 
-  .md\:hover\:border-moxi-green-dark:hover{
+  .md\:hover\:border-green-dark:hover{
     border-color: #42a33e;
   }
 
-  .md\:hover\:border-moxi-green:hover{
+  .md\:hover\:border-green:hover{
     border-color: #50b64c;
   }
 
-  .md\:hover\:border-moxi-green-light:hover{
+  .md\:hover\:border-green-light:hover{
     border-color: #84cb81;
   }
 
-  .md\:hover\:border-moxi-green-lightest:hover{
+  .md\:hover\:border-green-lightest:hover{
     border-color: #a7daa5;
   }
 
-  .md\:hover\:border-moxi-destructive:hover{
+  .md\:hover\:border-destructive:hover{
     border-color: #f44336;
   }
 
-  .md\:hover\:border-moxi-destructive-light:hover{
+  .md\:hover\:border-destructive-light:hover{
     border-color: #F77B73;
   }
 
@@ -17472,43 +17472,43 @@ p {
     border-color: #ffffff;
   }
 
-  .md\:focus\:border-moxi-blue-dark:focus{
+  .md\:focus\:border-blue-dark:focus{
     border-color: #377cbf;
   }
 
-  .md\:focus\:border-moxi-blue:focus{
+  .md\:focus\:border-blue:focus{
     border-color: #5092d3;
   }
 
-  .md\:focus\:border-moxi-blue-light:focus{
+  .md\:focus\:border-blue-light:focus{
     border-color: #84b2e0;
   }
 
-  .md\:focus\:border-moxi-blue-lightest:focus{
+  .md\:focus\:border-blue-lightest:focus{
     border-color: #a7c8e9;
   }
 
-  .md\:focus\:border-moxi-green-dark:focus{
+  .md\:focus\:border-green-dark:focus{
     border-color: #42a33e;
   }
 
-  .md\:focus\:border-moxi-green:focus{
+  .md\:focus\:border-green:focus{
     border-color: #50b64c;
   }
 
-  .md\:focus\:border-moxi-green-light:focus{
+  .md\:focus\:border-green-light:focus{
     border-color: #84cb81;
   }
 
-  .md\:focus\:border-moxi-green-lightest:focus{
+  .md\:focus\:border-green-lightest:focus{
     border-color: #a7daa5;
   }
 
-  .md\:focus\:border-moxi-destructive:focus{
+  .md\:focus\:border-destructive:focus{
     border-color: #f44336;
   }
 
-  .md\:focus\:border-moxi-destructive-light:focus{
+  .md\:focus\:border-destructive-light:focus{
     border-color: #F77B73;
   }
 
@@ -21788,203 +21788,203 @@ p {
     color: #ffffff;
   }
 
-  .md\:placeholder-moxi-blue-dark::-webkit-input-placeholder{
+  .md\:placeholder-blue-dark::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:placeholder-moxi-blue-dark::-moz-placeholder{
+  .md\:placeholder-blue-dark::-moz-placeholder{
     color: #377cbf;
   }
 
-  .md\:placeholder-moxi-blue-dark:-ms-input-placeholder{
+  .md\:placeholder-blue-dark:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:placeholder-moxi-blue-dark::-ms-input-placeholder{
+  .md\:placeholder-blue-dark::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:placeholder-moxi-blue-dark::placeholder{
+  .md\:placeholder-blue-dark::placeholder{
     color: #377cbf;
   }
 
-  .md\:placeholder-moxi-blue::-webkit-input-placeholder{
+  .md\:placeholder-blue::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:placeholder-moxi-blue::-moz-placeholder{
+  .md\:placeholder-blue::-moz-placeholder{
     color: #5092d3;
   }
 
-  .md\:placeholder-moxi-blue:-ms-input-placeholder{
+  .md\:placeholder-blue:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:placeholder-moxi-blue::-ms-input-placeholder{
+  .md\:placeholder-blue::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:placeholder-moxi-blue::placeholder{
+  .md\:placeholder-blue::placeholder{
     color: #5092d3;
   }
 
-  .md\:placeholder-moxi-blue-light::-webkit-input-placeholder{
+  .md\:placeholder-blue-light::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:placeholder-moxi-blue-light::-moz-placeholder{
+  .md\:placeholder-blue-light::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .md\:placeholder-moxi-blue-light:-ms-input-placeholder{
+  .md\:placeholder-blue-light:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:placeholder-moxi-blue-light::-ms-input-placeholder{
+  .md\:placeholder-blue-light::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:placeholder-moxi-blue-light::placeholder{
+  .md\:placeholder-blue-light::placeholder{
     color: #84b2e0;
   }
 
-  .md\:placeholder-moxi-blue-lightest::-webkit-input-placeholder{
+  .md\:placeholder-blue-lightest::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:placeholder-moxi-blue-lightest::-moz-placeholder{
+  .md\:placeholder-blue-lightest::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:placeholder-moxi-blue-lightest:-ms-input-placeholder{
+  .md\:placeholder-blue-lightest:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:placeholder-moxi-blue-lightest::-ms-input-placeholder{
+  .md\:placeholder-blue-lightest::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:placeholder-moxi-blue-lightest::placeholder{
+  .md\:placeholder-blue-lightest::placeholder{
     color: #a7c8e9;
   }
 
-  .md\:placeholder-moxi-green-dark::-webkit-input-placeholder{
+  .md\:placeholder-green-dark::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:placeholder-moxi-green-dark::-moz-placeholder{
+  .md\:placeholder-green-dark::-moz-placeholder{
     color: #42a33e;
   }
 
-  .md\:placeholder-moxi-green-dark:-ms-input-placeholder{
+  .md\:placeholder-green-dark:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:placeholder-moxi-green-dark::-ms-input-placeholder{
+  .md\:placeholder-green-dark::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:placeholder-moxi-green-dark::placeholder{
+  .md\:placeholder-green-dark::placeholder{
     color: #42a33e;
   }
 
-  .md\:placeholder-moxi-green::-webkit-input-placeholder{
+  .md\:placeholder-green::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:placeholder-moxi-green::-moz-placeholder{
+  .md\:placeholder-green::-moz-placeholder{
     color: #50b64c;
   }
 
-  .md\:placeholder-moxi-green:-ms-input-placeholder{
+  .md\:placeholder-green:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:placeholder-moxi-green::-ms-input-placeholder{
+  .md\:placeholder-green::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:placeholder-moxi-green::placeholder{
+  .md\:placeholder-green::placeholder{
     color: #50b64c;
   }
 
-  .md\:placeholder-moxi-green-light::-webkit-input-placeholder{
+  .md\:placeholder-green-light::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:placeholder-moxi-green-light::-moz-placeholder{
+  .md\:placeholder-green-light::-moz-placeholder{
     color: #84cb81;
   }
 
-  .md\:placeholder-moxi-green-light:-ms-input-placeholder{
+  .md\:placeholder-green-light:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:placeholder-moxi-green-light::-ms-input-placeholder{
+  .md\:placeholder-green-light::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:placeholder-moxi-green-light::placeholder{
+  .md\:placeholder-green-light::placeholder{
     color: #84cb81;
   }
 
-  .md\:placeholder-moxi-green-lightest::-webkit-input-placeholder{
+  .md\:placeholder-green-lightest::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:placeholder-moxi-green-lightest::-moz-placeholder{
+  .md\:placeholder-green-lightest::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .md\:placeholder-moxi-green-lightest:-ms-input-placeholder{
+  .md\:placeholder-green-lightest:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:placeholder-moxi-green-lightest::-ms-input-placeholder{
+  .md\:placeholder-green-lightest::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:placeholder-moxi-green-lightest::placeholder{
+  .md\:placeholder-green-lightest::placeholder{
     color: #a7daa5;
   }
 
-  .md\:placeholder-moxi-destructive::-webkit-input-placeholder{
+  .md\:placeholder-destructive::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .md\:placeholder-moxi-destructive::-moz-placeholder{
+  .md\:placeholder-destructive::-moz-placeholder{
     color: #f44336;
   }
 
-  .md\:placeholder-moxi-destructive:-ms-input-placeholder{
+  .md\:placeholder-destructive:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .md\:placeholder-moxi-destructive::-ms-input-placeholder{
+  .md\:placeholder-destructive::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .md\:placeholder-moxi-destructive::placeholder{
+  .md\:placeholder-destructive::placeholder{
     color: #f44336;
   }
 
-  .md\:placeholder-moxi-destructive-light::-webkit-input-placeholder{
+  .md\:placeholder-destructive-light::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:placeholder-moxi-destructive-light::-moz-placeholder{
+  .md\:placeholder-destructive-light::-moz-placeholder{
     color: #F77B73;
   }
 
-  .md\:placeholder-moxi-destructive-light:-ms-input-placeholder{
+  .md\:placeholder-destructive-light:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:placeholder-moxi-destructive-light::-ms-input-placeholder{
+  .md\:placeholder-destructive-light::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:placeholder-moxi-destructive-light::placeholder{
+  .md\:placeholder-destructive-light::placeholder{
     color: #F77B73;
   }
 
@@ -22508,203 +22508,203 @@ p {
     color: #ffffff;
   }
 
-  .md\:focus\:placeholder-moxi-blue-dark:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-blue-dark:focus::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:focus\:placeholder-moxi-blue-dark:focus::-moz-placeholder{
+  .md\:focus\:placeholder-blue-dark:focus::-moz-placeholder{
     color: #377cbf;
   }
 
-  .md\:focus\:placeholder-moxi-blue-dark:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-dark:focus:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:focus\:placeholder-moxi-blue-dark:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-dark:focus::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .md\:focus\:placeholder-moxi-blue-dark:focus::placeholder{
+  .md\:focus\:placeholder-blue-dark:focus::placeholder{
     color: #377cbf;
   }
 
-  .md\:focus\:placeholder-moxi-blue:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-blue:focus::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:focus\:placeholder-moxi-blue:focus::-moz-placeholder{
+  .md\:focus\:placeholder-blue:focus::-moz-placeholder{
     color: #5092d3;
   }
 
-  .md\:focus\:placeholder-moxi-blue:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-blue:focus:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:focus\:placeholder-moxi-blue:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-blue:focus::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .md\:focus\:placeholder-moxi-blue:focus::placeholder{
+  .md\:focus\:placeholder-blue:focus::placeholder{
     color: #5092d3;
   }
 
-  .md\:focus\:placeholder-moxi-blue-light:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-blue-light:focus::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:focus\:placeholder-moxi-blue-light:focus::-moz-placeholder{
+  .md\:focus\:placeholder-blue-light:focus::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .md\:focus\:placeholder-moxi-blue-light:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-light:focus:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:focus\:placeholder-moxi-blue-light:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-light:focus::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .md\:focus\:placeholder-moxi-blue-light:focus::placeholder{
+  .md\:focus\:placeholder-blue-light:focus::placeholder{
     color: #84b2e0;
   }
 
-  .md\:focus\:placeholder-moxi-blue-lightest:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-blue-lightest:focus::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:focus\:placeholder-moxi-blue-lightest:focus::-moz-placeholder{
+  .md\:focus\:placeholder-blue-lightest:focus::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:focus\:placeholder-moxi-blue-lightest:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-lightest:focus:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:focus\:placeholder-moxi-blue-lightest:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-blue-lightest:focus::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .md\:focus\:placeholder-moxi-blue-lightest:focus::placeholder{
+  .md\:focus\:placeholder-blue-lightest:focus::placeholder{
     color: #a7c8e9;
   }
 
-  .md\:focus\:placeholder-moxi-green-dark:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-green-dark:focus::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:focus\:placeholder-moxi-green-dark:focus::-moz-placeholder{
+  .md\:focus\:placeholder-green-dark:focus::-moz-placeholder{
     color: #42a33e;
   }
 
-  .md\:focus\:placeholder-moxi-green-dark:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-green-dark:focus:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:focus\:placeholder-moxi-green-dark:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-green-dark:focus::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .md\:focus\:placeholder-moxi-green-dark:focus::placeholder{
+  .md\:focus\:placeholder-green-dark:focus::placeholder{
     color: #42a33e;
   }
 
-  .md\:focus\:placeholder-moxi-green:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-green:focus::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:focus\:placeholder-moxi-green:focus::-moz-placeholder{
+  .md\:focus\:placeholder-green:focus::-moz-placeholder{
     color: #50b64c;
   }
 
-  .md\:focus\:placeholder-moxi-green:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-green:focus:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:focus\:placeholder-moxi-green:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-green:focus::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .md\:focus\:placeholder-moxi-green:focus::placeholder{
+  .md\:focus\:placeholder-green:focus::placeholder{
     color: #50b64c;
   }
 
-  .md\:focus\:placeholder-moxi-green-light:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-green-light:focus::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:focus\:placeholder-moxi-green-light:focus::-moz-placeholder{
+  .md\:focus\:placeholder-green-light:focus::-moz-placeholder{
     color: #84cb81;
   }
 
-  .md\:focus\:placeholder-moxi-green-light:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-green-light:focus:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:focus\:placeholder-moxi-green-light:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-green-light:focus::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .md\:focus\:placeholder-moxi-green-light:focus::placeholder{
+  .md\:focus\:placeholder-green-light:focus::placeholder{
     color: #84cb81;
   }
 
-  .md\:focus\:placeholder-moxi-green-lightest:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-green-lightest:focus::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:focus\:placeholder-moxi-green-lightest:focus::-moz-placeholder{
+  .md\:focus\:placeholder-green-lightest:focus::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .md\:focus\:placeholder-moxi-green-lightest:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-green-lightest:focus:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:focus\:placeholder-moxi-green-lightest:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-green-lightest:focus::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .md\:focus\:placeholder-moxi-green-lightest:focus::placeholder{
+  .md\:focus\:placeholder-green-lightest:focus::placeholder{
     color: #a7daa5;
   }
 
-  .md\:focus\:placeholder-moxi-destructive:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-destructive:focus::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .md\:focus\:placeholder-moxi-destructive:focus::-moz-placeholder{
+  .md\:focus\:placeholder-destructive:focus::-moz-placeholder{
     color: #f44336;
   }
 
-  .md\:focus\:placeholder-moxi-destructive:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-destructive:focus:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .md\:focus\:placeholder-moxi-destructive:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-destructive:focus::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .md\:focus\:placeholder-moxi-destructive:focus::placeholder{
+  .md\:focus\:placeholder-destructive:focus::placeholder{
     color: #f44336;
   }
 
-  .md\:focus\:placeholder-moxi-destructive-light:focus::-webkit-input-placeholder{
+  .md\:focus\:placeholder-destructive-light:focus::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:focus\:placeholder-moxi-destructive-light:focus::-moz-placeholder{
+  .md\:focus\:placeholder-destructive-light:focus::-moz-placeholder{
     color: #F77B73;
   }
 
-  .md\:focus\:placeholder-moxi-destructive-light:focus:-ms-input-placeholder{
+  .md\:focus\:placeholder-destructive-light:focus:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:focus\:placeholder-moxi-destructive-light:focus::-ms-input-placeholder{
+  .md\:focus\:placeholder-destructive-light:focus::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .md\:focus\:placeholder-moxi-destructive-light:focus::placeholder{
+  .md\:focus\:placeholder-destructive-light:focus::placeholder{
     color: #F77B73;
   }
 
@@ -23431,43 +23431,43 @@ p {
     color: #ffffff;
   }
 
-  .md\:text-moxi-blue-dark{
+  .md\:text-blue-dark{
     color: #377cbf;
   }
 
-  .md\:text-moxi-blue{
+  .md\:text-blue{
     color: #5092d3;
   }
 
-  .md\:text-moxi-blue-light{
+  .md\:text-blue-light{
     color: #84b2e0;
   }
 
-  .md\:text-moxi-blue-lightest{
+  .md\:text-blue-lightest{
     color: #a7c8e9;
   }
 
-  .md\:text-moxi-green-dark{
+  .md\:text-green-dark{
     color: #42a33e;
   }
 
-  .md\:text-moxi-green{
+  .md\:text-green{
     color: #50b64c;
   }
 
-  .md\:text-moxi-green-light{
+  .md\:text-green-light{
     color: #84cb81;
   }
 
-  .md\:text-moxi-green-lightest{
+  .md\:text-green-lightest{
     color: #a7daa5;
   }
 
-  .md\:text-moxi-destructive{
+  .md\:text-destructive{
     color: #f44336;
   }
 
-  .md\:text-moxi-destructive-light{
+  .md\:text-destructive-light{
     color: #F77B73;
   }
 
@@ -23575,43 +23575,43 @@ p {
     color: #ffffff;
   }
 
-  .md\:hover\:text-moxi-blue-dark:hover{
+  .md\:hover\:text-blue-dark:hover{
     color: #377cbf;
   }
 
-  .md\:hover\:text-moxi-blue:hover{
+  .md\:hover\:text-blue:hover{
     color: #5092d3;
   }
 
-  .md\:hover\:text-moxi-blue-light:hover{
+  .md\:hover\:text-blue-light:hover{
     color: #84b2e0;
   }
 
-  .md\:hover\:text-moxi-blue-lightest:hover{
+  .md\:hover\:text-blue-lightest:hover{
     color: #a7c8e9;
   }
 
-  .md\:hover\:text-moxi-green-dark:hover{
+  .md\:hover\:text-green-dark:hover{
     color: #42a33e;
   }
 
-  .md\:hover\:text-moxi-green:hover{
+  .md\:hover\:text-green:hover{
     color: #50b64c;
   }
 
-  .md\:hover\:text-moxi-green-light:hover{
+  .md\:hover\:text-green-light:hover{
     color: #84cb81;
   }
 
-  .md\:hover\:text-moxi-green-lightest:hover{
+  .md\:hover\:text-green-lightest:hover{
     color: #a7daa5;
   }
 
-  .md\:hover\:text-moxi-destructive:hover{
+  .md\:hover\:text-destructive:hover{
     color: #f44336;
   }
 
-  .md\:hover\:text-moxi-destructive-light:hover{
+  .md\:hover\:text-destructive-light:hover{
     color: #F77B73;
   }
 
@@ -23719,43 +23719,43 @@ p {
     color: #ffffff;
   }
 
-  .md\:focus\:text-moxi-blue-dark:focus{
+  .md\:focus\:text-blue-dark:focus{
     color: #377cbf;
   }
 
-  .md\:focus\:text-moxi-blue:focus{
+  .md\:focus\:text-blue:focus{
     color: #5092d3;
   }
 
-  .md\:focus\:text-moxi-blue-light:focus{
+  .md\:focus\:text-blue-light:focus{
     color: #84b2e0;
   }
 
-  .md\:focus\:text-moxi-blue-lightest:focus{
+  .md\:focus\:text-blue-lightest:focus{
     color: #a7c8e9;
   }
 
-  .md\:focus\:text-moxi-green-dark:focus{
+  .md\:focus\:text-green-dark:focus{
     color: #42a33e;
   }
 
-  .md\:focus\:text-moxi-green:focus{
+  .md\:focus\:text-green:focus{
     color: #50b64c;
   }
 
-  .md\:focus\:text-moxi-green-light:focus{
+  .md\:focus\:text-green-light:focus{
     color: #84cb81;
   }
 
-  .md\:focus\:text-moxi-green-lightest:focus{
+  .md\:focus\:text-green-lightest:focus{
     color: #a7daa5;
   }
 
-  .md\:focus\:text-moxi-destructive:focus{
+  .md\:focus\:text-destructive:focus{
     color: #f44336;
   }
 
-  .md\:focus\:text-moxi-destructive-light:focus{
+  .md\:focus\:text-destructive-light:focus{
     color: #F77B73;
   }
 
@@ -24306,43 +24306,43 @@ p {
     background-color: #ffffff;
   }
 
-  .lg\:bg-moxi-blue-dark{
+  .lg\:bg-blue-dark{
     background-color: #377cbf;
   }
 
-  .lg\:bg-moxi-blue{
+  .lg\:bg-blue{
     background-color: #5092d3;
   }
 
-  .lg\:bg-moxi-blue-light{
+  .lg\:bg-blue-light{
     background-color: #84b2e0;
   }
 
-  .lg\:bg-moxi-blue-lightest{
+  .lg\:bg-blue-lightest{
     background-color: #a7c8e9;
   }
 
-  .lg\:bg-moxi-green-dark{
+  .lg\:bg-green-dark{
     background-color: #42a33e;
   }
 
-  .lg\:bg-moxi-green{
+  .lg\:bg-green{
     background-color: #50b64c;
   }
 
-  .lg\:bg-moxi-green-light{
+  .lg\:bg-green-light{
     background-color: #84cb81;
   }
 
-  .lg\:bg-moxi-green-lightest{
+  .lg\:bg-green-lightest{
     background-color: #a7daa5;
   }
 
-  .lg\:bg-moxi-destructive{
+  .lg\:bg-destructive{
     background-color: #f44336;
   }
 
-  .lg\:bg-moxi-destructive-light{
+  .lg\:bg-destructive-light{
     background-color: #F77B73;
   }
 
@@ -24450,43 +24450,43 @@ p {
     background-color: #ffffff;
   }
 
-  .lg\:hover\:bg-moxi-blue-dark:hover{
+  .lg\:hover\:bg-blue-dark:hover{
     background-color: #377cbf;
   }
 
-  .lg\:hover\:bg-moxi-blue:hover{
+  .lg\:hover\:bg-blue:hover{
     background-color: #5092d3;
   }
 
-  .lg\:hover\:bg-moxi-blue-light:hover{
+  .lg\:hover\:bg-blue-light:hover{
     background-color: #84b2e0;
   }
 
-  .lg\:hover\:bg-moxi-blue-lightest:hover{
+  .lg\:hover\:bg-blue-lightest:hover{
     background-color: #a7c8e9;
   }
 
-  .lg\:hover\:bg-moxi-green-dark:hover{
+  .lg\:hover\:bg-green-dark:hover{
     background-color: #42a33e;
   }
 
-  .lg\:hover\:bg-moxi-green:hover{
+  .lg\:hover\:bg-green:hover{
     background-color: #50b64c;
   }
 
-  .lg\:hover\:bg-moxi-green-light:hover{
+  .lg\:hover\:bg-green-light:hover{
     background-color: #84cb81;
   }
 
-  .lg\:hover\:bg-moxi-green-lightest:hover{
+  .lg\:hover\:bg-green-lightest:hover{
     background-color: #a7daa5;
   }
 
-  .lg\:hover\:bg-moxi-destructive:hover{
+  .lg\:hover\:bg-destructive:hover{
     background-color: #f44336;
   }
 
-  .lg\:hover\:bg-moxi-destructive-light:hover{
+  .lg\:hover\:bg-destructive-light:hover{
     background-color: #F77B73;
   }
 
@@ -24594,43 +24594,43 @@ p {
     background-color: #ffffff;
   }
 
-  .lg\:focus\:bg-moxi-blue-dark:focus{
+  .lg\:focus\:bg-blue-dark:focus{
     background-color: #377cbf;
   }
 
-  .lg\:focus\:bg-moxi-blue:focus{
+  .lg\:focus\:bg-blue:focus{
     background-color: #5092d3;
   }
 
-  .lg\:focus\:bg-moxi-blue-light:focus{
+  .lg\:focus\:bg-blue-light:focus{
     background-color: #84b2e0;
   }
 
-  .lg\:focus\:bg-moxi-blue-lightest:focus{
+  .lg\:focus\:bg-blue-lightest:focus{
     background-color: #a7c8e9;
   }
 
-  .lg\:focus\:bg-moxi-green-dark:focus{
+  .lg\:focus\:bg-green-dark:focus{
     background-color: #42a33e;
   }
 
-  .lg\:focus\:bg-moxi-green:focus{
+  .lg\:focus\:bg-green:focus{
     background-color: #50b64c;
   }
 
-  .lg\:focus\:bg-moxi-green-light:focus{
+  .lg\:focus\:bg-green-light:focus{
     background-color: #84cb81;
   }
 
-  .lg\:focus\:bg-moxi-green-lightest:focus{
+  .lg\:focus\:bg-green-lightest:focus{
     background-color: #a7daa5;
   }
 
-  .lg\:focus\:bg-moxi-destructive:focus{
+  .lg\:focus\:bg-destructive:focus{
     background-color: #f44336;
   }
 
-  .lg\:focus\:bg-moxi-destructive-light:focus{
+  .lg\:focus\:bg-destructive-light:focus{
     background-color: #F77B73;
   }
 
@@ -24818,43 +24818,43 @@ p {
     border-color: #ffffff;
   }
 
-  .lg\:border-moxi-blue-dark{
+  .lg\:border-blue-dark{
     border-color: #377cbf;
   }
 
-  .lg\:border-moxi-blue{
+  .lg\:border-blue{
     border-color: #5092d3;
   }
 
-  .lg\:border-moxi-blue-light{
+  .lg\:border-blue-light{
     border-color: #84b2e0;
   }
 
-  .lg\:border-moxi-blue-lightest{
+  .lg\:border-blue-lightest{
     border-color: #a7c8e9;
   }
 
-  .lg\:border-moxi-green-dark{
+  .lg\:border-green-dark{
     border-color: #42a33e;
   }
 
-  .lg\:border-moxi-green{
+  .lg\:border-green{
     border-color: #50b64c;
   }
 
-  .lg\:border-moxi-green-light{
+  .lg\:border-green-light{
     border-color: #84cb81;
   }
 
-  .lg\:border-moxi-green-lightest{
+  .lg\:border-green-lightest{
     border-color: #a7daa5;
   }
 
-  .lg\:border-moxi-destructive{
+  .lg\:border-destructive{
     border-color: #f44336;
   }
 
-  .lg\:border-moxi-destructive-light{
+  .lg\:border-destructive-light{
     border-color: #F77B73;
   }
 
@@ -24962,43 +24962,43 @@ p {
     border-color: #ffffff;
   }
 
-  .lg\:hover\:border-moxi-blue-dark:hover{
+  .lg\:hover\:border-blue-dark:hover{
     border-color: #377cbf;
   }
 
-  .lg\:hover\:border-moxi-blue:hover{
+  .lg\:hover\:border-blue:hover{
     border-color: #5092d3;
   }
 
-  .lg\:hover\:border-moxi-blue-light:hover{
+  .lg\:hover\:border-blue-light:hover{
     border-color: #84b2e0;
   }
 
-  .lg\:hover\:border-moxi-blue-lightest:hover{
+  .lg\:hover\:border-blue-lightest:hover{
     border-color: #a7c8e9;
   }
 
-  .lg\:hover\:border-moxi-green-dark:hover{
+  .lg\:hover\:border-green-dark:hover{
     border-color: #42a33e;
   }
 
-  .lg\:hover\:border-moxi-green:hover{
+  .lg\:hover\:border-green:hover{
     border-color: #50b64c;
   }
 
-  .lg\:hover\:border-moxi-green-light:hover{
+  .lg\:hover\:border-green-light:hover{
     border-color: #84cb81;
   }
 
-  .lg\:hover\:border-moxi-green-lightest:hover{
+  .lg\:hover\:border-green-lightest:hover{
     border-color: #a7daa5;
   }
 
-  .lg\:hover\:border-moxi-destructive:hover{
+  .lg\:hover\:border-destructive:hover{
     border-color: #f44336;
   }
 
-  .lg\:hover\:border-moxi-destructive-light:hover{
+  .lg\:hover\:border-destructive-light:hover{
     border-color: #F77B73;
   }
 
@@ -25106,43 +25106,43 @@ p {
     border-color: #ffffff;
   }
 
-  .lg\:focus\:border-moxi-blue-dark:focus{
+  .lg\:focus\:border-blue-dark:focus{
     border-color: #377cbf;
   }
 
-  .lg\:focus\:border-moxi-blue:focus{
+  .lg\:focus\:border-blue:focus{
     border-color: #5092d3;
   }
 
-  .lg\:focus\:border-moxi-blue-light:focus{
+  .lg\:focus\:border-blue-light:focus{
     border-color: #84b2e0;
   }
 
-  .lg\:focus\:border-moxi-blue-lightest:focus{
+  .lg\:focus\:border-blue-lightest:focus{
     border-color: #a7c8e9;
   }
 
-  .lg\:focus\:border-moxi-green-dark:focus{
+  .lg\:focus\:border-green-dark:focus{
     border-color: #42a33e;
   }
 
-  .lg\:focus\:border-moxi-green:focus{
+  .lg\:focus\:border-green:focus{
     border-color: #50b64c;
   }
 
-  .lg\:focus\:border-moxi-green-light:focus{
+  .lg\:focus\:border-green-light:focus{
     border-color: #84cb81;
   }
 
-  .lg\:focus\:border-moxi-green-lightest:focus{
+  .lg\:focus\:border-green-lightest:focus{
     border-color: #a7daa5;
   }
 
-  .lg\:focus\:border-moxi-destructive:focus{
+  .lg\:focus\:border-destructive:focus{
     border-color: #f44336;
   }
 
-  .lg\:focus\:border-moxi-destructive-light:focus{
+  .lg\:focus\:border-destructive-light:focus{
     border-color: #F77B73;
   }
 
@@ -29422,203 +29422,203 @@ p {
     color: #ffffff;
   }
 
-  .lg\:placeholder-moxi-blue-dark::-webkit-input-placeholder{
+  .lg\:placeholder-blue-dark::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:placeholder-moxi-blue-dark::-moz-placeholder{
+  .lg\:placeholder-blue-dark::-moz-placeholder{
     color: #377cbf;
   }
 
-  .lg\:placeholder-moxi-blue-dark:-ms-input-placeholder{
+  .lg\:placeholder-blue-dark:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:placeholder-moxi-blue-dark::-ms-input-placeholder{
+  .lg\:placeholder-blue-dark::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:placeholder-moxi-blue-dark::placeholder{
+  .lg\:placeholder-blue-dark::placeholder{
     color: #377cbf;
   }
 
-  .lg\:placeholder-moxi-blue::-webkit-input-placeholder{
+  .lg\:placeholder-blue::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:placeholder-moxi-blue::-moz-placeholder{
+  .lg\:placeholder-blue::-moz-placeholder{
     color: #5092d3;
   }
 
-  .lg\:placeholder-moxi-blue:-ms-input-placeholder{
+  .lg\:placeholder-blue:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:placeholder-moxi-blue::-ms-input-placeholder{
+  .lg\:placeholder-blue::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:placeholder-moxi-blue::placeholder{
+  .lg\:placeholder-blue::placeholder{
     color: #5092d3;
   }
 
-  .lg\:placeholder-moxi-blue-light::-webkit-input-placeholder{
+  .lg\:placeholder-blue-light::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:placeholder-moxi-blue-light::-moz-placeholder{
+  .lg\:placeholder-blue-light::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:placeholder-moxi-blue-light:-ms-input-placeholder{
+  .lg\:placeholder-blue-light:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:placeholder-moxi-blue-light::-ms-input-placeholder{
+  .lg\:placeholder-blue-light::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:placeholder-moxi-blue-light::placeholder{
+  .lg\:placeholder-blue-light::placeholder{
     color: #84b2e0;
   }
 
-  .lg\:placeholder-moxi-blue-lightest::-webkit-input-placeholder{
+  .lg\:placeholder-blue-lightest::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:placeholder-moxi-blue-lightest::-moz-placeholder{
+  .lg\:placeholder-blue-lightest::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:placeholder-moxi-blue-lightest:-ms-input-placeholder{
+  .lg\:placeholder-blue-lightest:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:placeholder-moxi-blue-lightest::-ms-input-placeholder{
+  .lg\:placeholder-blue-lightest::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:placeholder-moxi-blue-lightest::placeholder{
+  .lg\:placeholder-blue-lightest::placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:placeholder-moxi-green-dark::-webkit-input-placeholder{
+  .lg\:placeholder-green-dark::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:placeholder-moxi-green-dark::-moz-placeholder{
+  .lg\:placeholder-green-dark::-moz-placeholder{
     color: #42a33e;
   }
 
-  .lg\:placeholder-moxi-green-dark:-ms-input-placeholder{
+  .lg\:placeholder-green-dark:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:placeholder-moxi-green-dark::-ms-input-placeholder{
+  .lg\:placeholder-green-dark::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:placeholder-moxi-green-dark::placeholder{
+  .lg\:placeholder-green-dark::placeholder{
     color: #42a33e;
   }
 
-  .lg\:placeholder-moxi-green::-webkit-input-placeholder{
+  .lg\:placeholder-green::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:placeholder-moxi-green::-moz-placeholder{
+  .lg\:placeholder-green::-moz-placeholder{
     color: #50b64c;
   }
 
-  .lg\:placeholder-moxi-green:-ms-input-placeholder{
+  .lg\:placeholder-green:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:placeholder-moxi-green::-ms-input-placeholder{
+  .lg\:placeholder-green::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:placeholder-moxi-green::placeholder{
+  .lg\:placeholder-green::placeholder{
     color: #50b64c;
   }
 
-  .lg\:placeholder-moxi-green-light::-webkit-input-placeholder{
+  .lg\:placeholder-green-light::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:placeholder-moxi-green-light::-moz-placeholder{
+  .lg\:placeholder-green-light::-moz-placeholder{
     color: #84cb81;
   }
 
-  .lg\:placeholder-moxi-green-light:-ms-input-placeholder{
+  .lg\:placeholder-green-light:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:placeholder-moxi-green-light::-ms-input-placeholder{
+  .lg\:placeholder-green-light::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:placeholder-moxi-green-light::placeholder{
+  .lg\:placeholder-green-light::placeholder{
     color: #84cb81;
   }
 
-  .lg\:placeholder-moxi-green-lightest::-webkit-input-placeholder{
+  .lg\:placeholder-green-lightest::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:placeholder-moxi-green-lightest::-moz-placeholder{
+  .lg\:placeholder-green-lightest::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:placeholder-moxi-green-lightest:-ms-input-placeholder{
+  .lg\:placeholder-green-lightest:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:placeholder-moxi-green-lightest::-ms-input-placeholder{
+  .lg\:placeholder-green-lightest::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:placeholder-moxi-green-lightest::placeholder{
+  .lg\:placeholder-green-lightest::placeholder{
     color: #a7daa5;
   }
 
-  .lg\:placeholder-moxi-destructive::-webkit-input-placeholder{
+  .lg\:placeholder-destructive::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:placeholder-moxi-destructive::-moz-placeholder{
+  .lg\:placeholder-destructive::-moz-placeholder{
     color: #f44336;
   }
 
-  .lg\:placeholder-moxi-destructive:-ms-input-placeholder{
+  .lg\:placeholder-destructive:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:placeholder-moxi-destructive::-ms-input-placeholder{
+  .lg\:placeholder-destructive::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:placeholder-moxi-destructive::placeholder{
+  .lg\:placeholder-destructive::placeholder{
     color: #f44336;
   }
 
-  .lg\:placeholder-moxi-destructive-light::-webkit-input-placeholder{
+  .lg\:placeholder-destructive-light::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:placeholder-moxi-destructive-light::-moz-placeholder{
+  .lg\:placeholder-destructive-light::-moz-placeholder{
     color: #F77B73;
   }
 
-  .lg\:placeholder-moxi-destructive-light:-ms-input-placeholder{
+  .lg\:placeholder-destructive-light:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:placeholder-moxi-destructive-light::-ms-input-placeholder{
+  .lg\:placeholder-destructive-light::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:placeholder-moxi-destructive-light::placeholder{
+  .lg\:placeholder-destructive-light::placeholder{
     color: #F77B73;
   }
 
@@ -30142,203 +30142,203 @@ p {
     color: #ffffff;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-dark:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-blue-dark:focus::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-dark:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-blue-dark:focus::-moz-placeholder{
     color: #377cbf;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-dark:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-dark:focus:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-dark:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-dark:focus::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-dark:focus::placeholder{
+  .lg\:focus\:placeholder-blue-dark:focus::placeholder{
     color: #377cbf;
   }
 
-  .lg\:focus\:placeholder-moxi-blue:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-blue:focus::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:focus\:placeholder-moxi-blue:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-blue:focus::-moz-placeholder{
     color: #5092d3;
   }
 
-  .lg\:focus\:placeholder-moxi-blue:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue:focus:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:focus\:placeholder-moxi-blue:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue:focus::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .lg\:focus\:placeholder-moxi-blue:focus::placeholder{
+  .lg\:focus\:placeholder-blue:focus::placeholder{
     color: #5092d3;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-light:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-blue-light:focus::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-light:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-blue-light:focus::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-light:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-light:focus:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-light:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-light:focus::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-light:focus::placeholder{
+  .lg\:focus\:placeholder-blue-light:focus::placeholder{
     color: #84b2e0;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-lightest:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-blue-lightest:focus::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-lightest:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-blue-lightest:focus::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-lightest:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-lightest:focus:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-lightest:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-blue-lightest:focus::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:placeholder-moxi-blue-lightest:focus::placeholder{
+  .lg\:focus\:placeholder-blue-lightest:focus::placeholder{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:placeholder-moxi-green-dark:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-green-dark:focus::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:focus\:placeholder-moxi-green-dark:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-green-dark:focus::-moz-placeholder{
     color: #42a33e;
   }
 
-  .lg\:focus\:placeholder-moxi-green-dark:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-dark:focus:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:focus\:placeholder-moxi-green-dark:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-dark:focus::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .lg\:focus\:placeholder-moxi-green-dark:focus::placeholder{
+  .lg\:focus\:placeholder-green-dark:focus::placeholder{
     color: #42a33e;
   }
 
-  .lg\:focus\:placeholder-moxi-green:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-green:focus::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:focus\:placeholder-moxi-green:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-green:focus::-moz-placeholder{
     color: #50b64c;
   }
 
-  .lg\:focus\:placeholder-moxi-green:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-green:focus:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:focus\:placeholder-moxi-green:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-green:focus::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .lg\:focus\:placeholder-moxi-green:focus::placeholder{
+  .lg\:focus\:placeholder-green:focus::placeholder{
     color: #50b64c;
   }
 
-  .lg\:focus\:placeholder-moxi-green-light:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-green-light:focus::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:focus\:placeholder-moxi-green-light:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-green-light:focus::-moz-placeholder{
     color: #84cb81;
   }
 
-  .lg\:focus\:placeholder-moxi-green-light:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-light:focus:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:focus\:placeholder-moxi-green-light:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-light:focus::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .lg\:focus\:placeholder-moxi-green-light:focus::placeholder{
+  .lg\:focus\:placeholder-green-light:focus::placeholder{
     color: #84cb81;
   }
 
-  .lg\:focus\:placeholder-moxi-green-lightest:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-green-lightest:focus::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:focus\:placeholder-moxi-green-lightest:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-green-lightest:focus::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:focus\:placeholder-moxi-green-lightest:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-lightest:focus:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:focus\:placeholder-moxi-green-lightest:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-green-lightest:focus::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .lg\:focus\:placeholder-moxi-green-lightest:focus::placeholder{
+  .lg\:focus\:placeholder-green-lightest:focus::placeholder{
     color: #a7daa5;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-destructive:focus::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-destructive:focus::-moz-placeholder{
     color: #f44336;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-destructive:focus:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-destructive:focus::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive:focus::placeholder{
+  .lg\:focus\:placeholder-destructive:focus::placeholder{
     color: #f44336;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive-light:focus::-webkit-input-placeholder{
+  .lg\:focus\:placeholder-destructive-light:focus::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive-light:focus::-moz-placeholder{
+  .lg\:focus\:placeholder-destructive-light:focus::-moz-placeholder{
     color: #F77B73;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive-light:focus:-ms-input-placeholder{
+  .lg\:focus\:placeholder-destructive-light:focus:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive-light:focus::-ms-input-placeholder{
+  .lg\:focus\:placeholder-destructive-light:focus::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .lg\:focus\:placeholder-moxi-destructive-light:focus::placeholder{
+  .lg\:focus\:placeholder-destructive-light:focus::placeholder{
     color: #F77B73;
   }
 
@@ -31065,43 +31065,43 @@ p {
     color: #ffffff;
   }
 
-  .lg\:text-moxi-blue-dark{
+  .lg\:text-blue-dark{
     color: #377cbf;
   }
 
-  .lg\:text-moxi-blue{
+  .lg\:text-blue{
     color: #5092d3;
   }
 
-  .lg\:text-moxi-blue-light{
+  .lg\:text-blue-light{
     color: #84b2e0;
   }
 
-  .lg\:text-moxi-blue-lightest{
+  .lg\:text-blue-lightest{
     color: #a7c8e9;
   }
 
-  .lg\:text-moxi-green-dark{
+  .lg\:text-green-dark{
     color: #42a33e;
   }
 
-  .lg\:text-moxi-green{
+  .lg\:text-green{
     color: #50b64c;
   }
 
-  .lg\:text-moxi-green-light{
+  .lg\:text-green-light{
     color: #84cb81;
   }
 
-  .lg\:text-moxi-green-lightest{
+  .lg\:text-green-lightest{
     color: #a7daa5;
   }
 
-  .lg\:text-moxi-destructive{
+  .lg\:text-destructive{
     color: #f44336;
   }
 
-  .lg\:text-moxi-destructive-light{
+  .lg\:text-destructive-light{
     color: #F77B73;
   }
 
@@ -31209,43 +31209,43 @@ p {
     color: #ffffff;
   }
 
-  .lg\:hover\:text-moxi-blue-dark:hover{
+  .lg\:hover\:text-blue-dark:hover{
     color: #377cbf;
   }
 
-  .lg\:hover\:text-moxi-blue:hover{
+  .lg\:hover\:text-blue:hover{
     color: #5092d3;
   }
 
-  .lg\:hover\:text-moxi-blue-light:hover{
+  .lg\:hover\:text-blue-light:hover{
     color: #84b2e0;
   }
 
-  .lg\:hover\:text-moxi-blue-lightest:hover{
+  .lg\:hover\:text-blue-lightest:hover{
     color: #a7c8e9;
   }
 
-  .lg\:hover\:text-moxi-green-dark:hover{
+  .lg\:hover\:text-green-dark:hover{
     color: #42a33e;
   }
 
-  .lg\:hover\:text-moxi-green:hover{
+  .lg\:hover\:text-green:hover{
     color: #50b64c;
   }
 
-  .lg\:hover\:text-moxi-green-light:hover{
+  .lg\:hover\:text-green-light:hover{
     color: #84cb81;
   }
 
-  .lg\:hover\:text-moxi-green-lightest:hover{
+  .lg\:hover\:text-green-lightest:hover{
     color: #a7daa5;
   }
 
-  .lg\:hover\:text-moxi-destructive:hover{
+  .lg\:hover\:text-destructive:hover{
     color: #f44336;
   }
 
-  .lg\:hover\:text-moxi-destructive-light:hover{
+  .lg\:hover\:text-destructive-light:hover{
     color: #F77B73;
   }
 
@@ -31353,43 +31353,43 @@ p {
     color: #ffffff;
   }
 
-  .lg\:focus\:text-moxi-blue-dark:focus{
+  .lg\:focus\:text-blue-dark:focus{
     color: #377cbf;
   }
 
-  .lg\:focus\:text-moxi-blue:focus{
+  .lg\:focus\:text-blue:focus{
     color: #5092d3;
   }
 
-  .lg\:focus\:text-moxi-blue-light:focus{
+  .lg\:focus\:text-blue-light:focus{
     color: #84b2e0;
   }
 
-  .lg\:focus\:text-moxi-blue-lightest:focus{
+  .lg\:focus\:text-blue-lightest:focus{
     color: #a7c8e9;
   }
 
-  .lg\:focus\:text-moxi-green-dark:focus{
+  .lg\:focus\:text-green-dark:focus{
     color: #42a33e;
   }
 
-  .lg\:focus\:text-moxi-green:focus{
+  .lg\:focus\:text-green:focus{
     color: #50b64c;
   }
 
-  .lg\:focus\:text-moxi-green-light:focus{
+  .lg\:focus\:text-green-light:focus{
     color: #84cb81;
   }
 
-  .lg\:focus\:text-moxi-green-lightest:focus{
+  .lg\:focus\:text-green-lightest:focus{
     color: #a7daa5;
   }
 
-  .lg\:focus\:text-moxi-destructive:focus{
+  .lg\:focus\:text-destructive:focus{
     color: #f44336;
   }
 
-  .lg\:focus\:text-moxi-destructive-light:focus{
+  .lg\:focus\:text-destructive-light:focus{
     color: #F77B73;
   }
 
@@ -31940,43 +31940,43 @@ p {
     background-color: #ffffff;
   }
 
-  .xl\:bg-moxi-blue-dark{
+  .xl\:bg-blue-dark{
     background-color: #377cbf;
   }
 
-  .xl\:bg-moxi-blue{
+  .xl\:bg-blue{
     background-color: #5092d3;
   }
 
-  .xl\:bg-moxi-blue-light{
+  .xl\:bg-blue-light{
     background-color: #84b2e0;
   }
 
-  .xl\:bg-moxi-blue-lightest{
+  .xl\:bg-blue-lightest{
     background-color: #a7c8e9;
   }
 
-  .xl\:bg-moxi-green-dark{
+  .xl\:bg-green-dark{
     background-color: #42a33e;
   }
 
-  .xl\:bg-moxi-green{
+  .xl\:bg-green{
     background-color: #50b64c;
   }
 
-  .xl\:bg-moxi-green-light{
+  .xl\:bg-green-light{
     background-color: #84cb81;
   }
 
-  .xl\:bg-moxi-green-lightest{
+  .xl\:bg-green-lightest{
     background-color: #a7daa5;
   }
 
-  .xl\:bg-moxi-destructive{
+  .xl\:bg-destructive{
     background-color: #f44336;
   }
 
-  .xl\:bg-moxi-destructive-light{
+  .xl\:bg-destructive-light{
     background-color: #F77B73;
   }
 
@@ -32084,43 +32084,43 @@ p {
     background-color: #ffffff;
   }
 
-  .xl\:hover\:bg-moxi-blue-dark:hover{
+  .xl\:hover\:bg-blue-dark:hover{
     background-color: #377cbf;
   }
 
-  .xl\:hover\:bg-moxi-blue:hover{
+  .xl\:hover\:bg-blue:hover{
     background-color: #5092d3;
   }
 
-  .xl\:hover\:bg-moxi-blue-light:hover{
+  .xl\:hover\:bg-blue-light:hover{
     background-color: #84b2e0;
   }
 
-  .xl\:hover\:bg-moxi-blue-lightest:hover{
+  .xl\:hover\:bg-blue-lightest:hover{
     background-color: #a7c8e9;
   }
 
-  .xl\:hover\:bg-moxi-green-dark:hover{
+  .xl\:hover\:bg-green-dark:hover{
     background-color: #42a33e;
   }
 
-  .xl\:hover\:bg-moxi-green:hover{
+  .xl\:hover\:bg-green:hover{
     background-color: #50b64c;
   }
 
-  .xl\:hover\:bg-moxi-green-light:hover{
+  .xl\:hover\:bg-green-light:hover{
     background-color: #84cb81;
   }
 
-  .xl\:hover\:bg-moxi-green-lightest:hover{
+  .xl\:hover\:bg-green-lightest:hover{
     background-color: #a7daa5;
   }
 
-  .xl\:hover\:bg-moxi-destructive:hover{
+  .xl\:hover\:bg-destructive:hover{
     background-color: #f44336;
   }
 
-  .xl\:hover\:bg-moxi-destructive-light:hover{
+  .xl\:hover\:bg-destructive-light:hover{
     background-color: #F77B73;
   }
 
@@ -32228,43 +32228,43 @@ p {
     background-color: #ffffff;
   }
 
-  .xl\:focus\:bg-moxi-blue-dark:focus{
+  .xl\:focus\:bg-blue-dark:focus{
     background-color: #377cbf;
   }
 
-  .xl\:focus\:bg-moxi-blue:focus{
+  .xl\:focus\:bg-blue:focus{
     background-color: #5092d3;
   }
 
-  .xl\:focus\:bg-moxi-blue-light:focus{
+  .xl\:focus\:bg-blue-light:focus{
     background-color: #84b2e0;
   }
 
-  .xl\:focus\:bg-moxi-blue-lightest:focus{
+  .xl\:focus\:bg-blue-lightest:focus{
     background-color: #a7c8e9;
   }
 
-  .xl\:focus\:bg-moxi-green-dark:focus{
+  .xl\:focus\:bg-green-dark:focus{
     background-color: #42a33e;
   }
 
-  .xl\:focus\:bg-moxi-green:focus{
+  .xl\:focus\:bg-green:focus{
     background-color: #50b64c;
   }
 
-  .xl\:focus\:bg-moxi-green-light:focus{
+  .xl\:focus\:bg-green-light:focus{
     background-color: #84cb81;
   }
 
-  .xl\:focus\:bg-moxi-green-lightest:focus{
+  .xl\:focus\:bg-green-lightest:focus{
     background-color: #a7daa5;
   }
 
-  .xl\:focus\:bg-moxi-destructive:focus{
+  .xl\:focus\:bg-destructive:focus{
     background-color: #f44336;
   }
 
-  .xl\:focus\:bg-moxi-destructive-light:focus{
+  .xl\:focus\:bg-destructive-light:focus{
     background-color: #F77B73;
   }
 
@@ -32452,43 +32452,43 @@ p {
     border-color: #ffffff;
   }
 
-  .xl\:border-moxi-blue-dark{
+  .xl\:border-blue-dark{
     border-color: #377cbf;
   }
 
-  .xl\:border-moxi-blue{
+  .xl\:border-blue{
     border-color: #5092d3;
   }
 
-  .xl\:border-moxi-blue-light{
+  .xl\:border-blue-light{
     border-color: #84b2e0;
   }
 
-  .xl\:border-moxi-blue-lightest{
+  .xl\:border-blue-lightest{
     border-color: #a7c8e9;
   }
 
-  .xl\:border-moxi-green-dark{
+  .xl\:border-green-dark{
     border-color: #42a33e;
   }
 
-  .xl\:border-moxi-green{
+  .xl\:border-green{
     border-color: #50b64c;
   }
 
-  .xl\:border-moxi-green-light{
+  .xl\:border-green-light{
     border-color: #84cb81;
   }
 
-  .xl\:border-moxi-green-lightest{
+  .xl\:border-green-lightest{
     border-color: #a7daa5;
   }
 
-  .xl\:border-moxi-destructive{
+  .xl\:border-destructive{
     border-color: #f44336;
   }
 
-  .xl\:border-moxi-destructive-light{
+  .xl\:border-destructive-light{
     border-color: #F77B73;
   }
 
@@ -32596,43 +32596,43 @@ p {
     border-color: #ffffff;
   }
 
-  .xl\:hover\:border-moxi-blue-dark:hover{
+  .xl\:hover\:border-blue-dark:hover{
     border-color: #377cbf;
   }
 
-  .xl\:hover\:border-moxi-blue:hover{
+  .xl\:hover\:border-blue:hover{
     border-color: #5092d3;
   }
 
-  .xl\:hover\:border-moxi-blue-light:hover{
+  .xl\:hover\:border-blue-light:hover{
     border-color: #84b2e0;
   }
 
-  .xl\:hover\:border-moxi-blue-lightest:hover{
+  .xl\:hover\:border-blue-lightest:hover{
     border-color: #a7c8e9;
   }
 
-  .xl\:hover\:border-moxi-green-dark:hover{
+  .xl\:hover\:border-green-dark:hover{
     border-color: #42a33e;
   }
 
-  .xl\:hover\:border-moxi-green:hover{
+  .xl\:hover\:border-green:hover{
     border-color: #50b64c;
   }
 
-  .xl\:hover\:border-moxi-green-light:hover{
+  .xl\:hover\:border-green-light:hover{
     border-color: #84cb81;
   }
 
-  .xl\:hover\:border-moxi-green-lightest:hover{
+  .xl\:hover\:border-green-lightest:hover{
     border-color: #a7daa5;
   }
 
-  .xl\:hover\:border-moxi-destructive:hover{
+  .xl\:hover\:border-destructive:hover{
     border-color: #f44336;
   }
 
-  .xl\:hover\:border-moxi-destructive-light:hover{
+  .xl\:hover\:border-destructive-light:hover{
     border-color: #F77B73;
   }
 
@@ -32740,43 +32740,43 @@ p {
     border-color: #ffffff;
   }
 
-  .xl\:focus\:border-moxi-blue-dark:focus{
+  .xl\:focus\:border-blue-dark:focus{
     border-color: #377cbf;
   }
 
-  .xl\:focus\:border-moxi-blue:focus{
+  .xl\:focus\:border-blue:focus{
     border-color: #5092d3;
   }
 
-  .xl\:focus\:border-moxi-blue-light:focus{
+  .xl\:focus\:border-blue-light:focus{
     border-color: #84b2e0;
   }
 
-  .xl\:focus\:border-moxi-blue-lightest:focus{
+  .xl\:focus\:border-blue-lightest:focus{
     border-color: #a7c8e9;
   }
 
-  .xl\:focus\:border-moxi-green-dark:focus{
+  .xl\:focus\:border-green-dark:focus{
     border-color: #42a33e;
   }
 
-  .xl\:focus\:border-moxi-green:focus{
+  .xl\:focus\:border-green:focus{
     border-color: #50b64c;
   }
 
-  .xl\:focus\:border-moxi-green-light:focus{
+  .xl\:focus\:border-green-light:focus{
     border-color: #84cb81;
   }
 
-  .xl\:focus\:border-moxi-green-lightest:focus{
+  .xl\:focus\:border-green-lightest:focus{
     border-color: #a7daa5;
   }
 
-  .xl\:focus\:border-moxi-destructive:focus{
+  .xl\:focus\:border-destructive:focus{
     border-color: #f44336;
   }
 
-  .xl\:focus\:border-moxi-destructive-light:focus{
+  .xl\:focus\:border-destructive-light:focus{
     border-color: #F77B73;
   }
 
@@ -37056,203 +37056,203 @@ p {
     color: #ffffff;
   }
 
-  .xl\:placeholder-moxi-blue-dark::-webkit-input-placeholder{
+  .xl\:placeholder-blue-dark::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:placeholder-moxi-blue-dark::-moz-placeholder{
+  .xl\:placeholder-blue-dark::-moz-placeholder{
     color: #377cbf;
   }
 
-  .xl\:placeholder-moxi-blue-dark:-ms-input-placeholder{
+  .xl\:placeholder-blue-dark:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:placeholder-moxi-blue-dark::-ms-input-placeholder{
+  .xl\:placeholder-blue-dark::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:placeholder-moxi-blue-dark::placeholder{
+  .xl\:placeholder-blue-dark::placeholder{
     color: #377cbf;
   }
 
-  .xl\:placeholder-moxi-blue::-webkit-input-placeholder{
+  .xl\:placeholder-blue::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:placeholder-moxi-blue::-moz-placeholder{
+  .xl\:placeholder-blue::-moz-placeholder{
     color: #5092d3;
   }
 
-  .xl\:placeholder-moxi-blue:-ms-input-placeholder{
+  .xl\:placeholder-blue:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:placeholder-moxi-blue::-ms-input-placeholder{
+  .xl\:placeholder-blue::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:placeholder-moxi-blue::placeholder{
+  .xl\:placeholder-blue::placeholder{
     color: #5092d3;
   }
 
-  .xl\:placeholder-moxi-blue-light::-webkit-input-placeholder{
+  .xl\:placeholder-blue-light::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:placeholder-moxi-blue-light::-moz-placeholder{
+  .xl\:placeholder-blue-light::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:placeholder-moxi-blue-light:-ms-input-placeholder{
+  .xl\:placeholder-blue-light:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:placeholder-moxi-blue-light::-ms-input-placeholder{
+  .xl\:placeholder-blue-light::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:placeholder-moxi-blue-light::placeholder{
+  .xl\:placeholder-blue-light::placeholder{
     color: #84b2e0;
   }
 
-  .xl\:placeholder-moxi-blue-lightest::-webkit-input-placeholder{
+  .xl\:placeholder-blue-lightest::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:placeholder-moxi-blue-lightest::-moz-placeholder{
+  .xl\:placeholder-blue-lightest::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:placeholder-moxi-blue-lightest:-ms-input-placeholder{
+  .xl\:placeholder-blue-lightest:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:placeholder-moxi-blue-lightest::-ms-input-placeholder{
+  .xl\:placeholder-blue-lightest::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:placeholder-moxi-blue-lightest::placeholder{
+  .xl\:placeholder-blue-lightest::placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:placeholder-moxi-green-dark::-webkit-input-placeholder{
+  .xl\:placeholder-green-dark::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:placeholder-moxi-green-dark::-moz-placeholder{
+  .xl\:placeholder-green-dark::-moz-placeholder{
     color: #42a33e;
   }
 
-  .xl\:placeholder-moxi-green-dark:-ms-input-placeholder{
+  .xl\:placeholder-green-dark:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:placeholder-moxi-green-dark::-ms-input-placeholder{
+  .xl\:placeholder-green-dark::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:placeholder-moxi-green-dark::placeholder{
+  .xl\:placeholder-green-dark::placeholder{
     color: #42a33e;
   }
 
-  .xl\:placeholder-moxi-green::-webkit-input-placeholder{
+  .xl\:placeholder-green::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:placeholder-moxi-green::-moz-placeholder{
+  .xl\:placeholder-green::-moz-placeholder{
     color: #50b64c;
   }
 
-  .xl\:placeholder-moxi-green:-ms-input-placeholder{
+  .xl\:placeholder-green:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:placeholder-moxi-green::-ms-input-placeholder{
+  .xl\:placeholder-green::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:placeholder-moxi-green::placeholder{
+  .xl\:placeholder-green::placeholder{
     color: #50b64c;
   }
 
-  .xl\:placeholder-moxi-green-light::-webkit-input-placeholder{
+  .xl\:placeholder-green-light::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:placeholder-moxi-green-light::-moz-placeholder{
+  .xl\:placeholder-green-light::-moz-placeholder{
     color: #84cb81;
   }
 
-  .xl\:placeholder-moxi-green-light:-ms-input-placeholder{
+  .xl\:placeholder-green-light:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:placeholder-moxi-green-light::-ms-input-placeholder{
+  .xl\:placeholder-green-light::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:placeholder-moxi-green-light::placeholder{
+  .xl\:placeholder-green-light::placeholder{
     color: #84cb81;
   }
 
-  .xl\:placeholder-moxi-green-lightest::-webkit-input-placeholder{
+  .xl\:placeholder-green-lightest::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:placeholder-moxi-green-lightest::-moz-placeholder{
+  .xl\:placeholder-green-lightest::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:placeholder-moxi-green-lightest:-ms-input-placeholder{
+  .xl\:placeholder-green-lightest:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:placeholder-moxi-green-lightest::-ms-input-placeholder{
+  .xl\:placeholder-green-lightest::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:placeholder-moxi-green-lightest::placeholder{
+  .xl\:placeholder-green-lightest::placeholder{
     color: #a7daa5;
   }
 
-  .xl\:placeholder-moxi-destructive::-webkit-input-placeholder{
+  .xl\:placeholder-destructive::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:placeholder-moxi-destructive::-moz-placeholder{
+  .xl\:placeholder-destructive::-moz-placeholder{
     color: #f44336;
   }
 
-  .xl\:placeholder-moxi-destructive:-ms-input-placeholder{
+  .xl\:placeholder-destructive:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:placeholder-moxi-destructive::-ms-input-placeholder{
+  .xl\:placeholder-destructive::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:placeholder-moxi-destructive::placeholder{
+  .xl\:placeholder-destructive::placeholder{
     color: #f44336;
   }
 
-  .xl\:placeholder-moxi-destructive-light::-webkit-input-placeholder{
+  .xl\:placeholder-destructive-light::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:placeholder-moxi-destructive-light::-moz-placeholder{
+  .xl\:placeholder-destructive-light::-moz-placeholder{
     color: #F77B73;
   }
 
-  .xl\:placeholder-moxi-destructive-light:-ms-input-placeholder{
+  .xl\:placeholder-destructive-light:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:placeholder-moxi-destructive-light::-ms-input-placeholder{
+  .xl\:placeholder-destructive-light::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:placeholder-moxi-destructive-light::placeholder{
+  .xl\:placeholder-destructive-light::placeholder{
     color: #F77B73;
   }
 
@@ -37776,203 +37776,203 @@ p {
     color: #ffffff;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-dark:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-blue-dark:focus::-webkit-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-dark:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-blue-dark:focus::-moz-placeholder{
     color: #377cbf;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-dark:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-dark:focus:-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-dark:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-dark:focus::-ms-input-placeholder{
     color: #377cbf;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-dark:focus::placeholder{
+  .xl\:focus\:placeholder-blue-dark:focus::placeholder{
     color: #377cbf;
   }
 
-  .xl\:focus\:placeholder-moxi-blue:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-blue:focus::-webkit-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:focus\:placeholder-moxi-blue:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-blue:focus::-moz-placeholder{
     color: #5092d3;
   }
 
-  .xl\:focus\:placeholder-moxi-blue:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue:focus:-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:focus\:placeholder-moxi-blue:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue:focus::-ms-input-placeholder{
     color: #5092d3;
   }
 
-  .xl\:focus\:placeholder-moxi-blue:focus::placeholder{
+  .xl\:focus\:placeholder-blue:focus::placeholder{
     color: #5092d3;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-light:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-blue-light:focus::-webkit-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-light:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-blue-light:focus::-moz-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-light:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-light:focus:-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-light:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-light:focus::-ms-input-placeholder{
     color: #84b2e0;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-light:focus::placeholder{
+  .xl\:focus\:placeholder-blue-light:focus::placeholder{
     color: #84b2e0;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-lightest:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-blue-lightest:focus::-webkit-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-lightest:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-blue-lightest:focus::-moz-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-lightest:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-lightest:focus:-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-lightest:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-blue-lightest:focus::-ms-input-placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:placeholder-moxi-blue-lightest:focus::placeholder{
+  .xl\:focus\:placeholder-blue-lightest:focus::placeholder{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:placeholder-moxi-green-dark:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-green-dark:focus::-webkit-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:focus\:placeholder-moxi-green-dark:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-green-dark:focus::-moz-placeholder{
     color: #42a33e;
   }
 
-  .xl\:focus\:placeholder-moxi-green-dark:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-dark:focus:-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:focus\:placeholder-moxi-green-dark:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-dark:focus::-ms-input-placeholder{
     color: #42a33e;
   }
 
-  .xl\:focus\:placeholder-moxi-green-dark:focus::placeholder{
+  .xl\:focus\:placeholder-green-dark:focus::placeholder{
     color: #42a33e;
   }
 
-  .xl\:focus\:placeholder-moxi-green:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-green:focus::-webkit-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:focus\:placeholder-moxi-green:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-green:focus::-moz-placeholder{
     color: #50b64c;
   }
 
-  .xl\:focus\:placeholder-moxi-green:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-green:focus:-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:focus\:placeholder-moxi-green:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-green:focus::-ms-input-placeholder{
     color: #50b64c;
   }
 
-  .xl\:focus\:placeholder-moxi-green:focus::placeholder{
+  .xl\:focus\:placeholder-green:focus::placeholder{
     color: #50b64c;
   }
 
-  .xl\:focus\:placeholder-moxi-green-light:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-green-light:focus::-webkit-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:focus\:placeholder-moxi-green-light:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-green-light:focus::-moz-placeholder{
     color: #84cb81;
   }
 
-  .xl\:focus\:placeholder-moxi-green-light:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-light:focus:-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:focus\:placeholder-moxi-green-light:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-light:focus::-ms-input-placeholder{
     color: #84cb81;
   }
 
-  .xl\:focus\:placeholder-moxi-green-light:focus::placeholder{
+  .xl\:focus\:placeholder-green-light:focus::placeholder{
     color: #84cb81;
   }
 
-  .xl\:focus\:placeholder-moxi-green-lightest:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-green-lightest:focus::-webkit-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:focus\:placeholder-moxi-green-lightest:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-green-lightest:focus::-moz-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:focus\:placeholder-moxi-green-lightest:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-lightest:focus:-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:focus\:placeholder-moxi-green-lightest:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-green-lightest:focus::-ms-input-placeholder{
     color: #a7daa5;
   }
 
-  .xl\:focus\:placeholder-moxi-green-lightest:focus::placeholder{
+  .xl\:focus\:placeholder-green-lightest:focus::placeholder{
     color: #a7daa5;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-destructive:focus::-webkit-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-destructive:focus::-moz-placeholder{
     color: #f44336;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-destructive:focus:-ms-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-destructive:focus::-ms-input-placeholder{
     color: #f44336;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive:focus::placeholder{
+  .xl\:focus\:placeholder-destructive:focus::placeholder{
     color: #f44336;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive-light:focus::-webkit-input-placeholder{
+  .xl\:focus\:placeholder-destructive-light:focus::-webkit-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive-light:focus::-moz-placeholder{
+  .xl\:focus\:placeholder-destructive-light:focus::-moz-placeholder{
     color: #F77B73;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive-light:focus:-ms-input-placeholder{
+  .xl\:focus\:placeholder-destructive-light:focus:-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive-light:focus::-ms-input-placeholder{
+  .xl\:focus\:placeholder-destructive-light:focus::-ms-input-placeholder{
     color: #F77B73;
   }
 
-  .xl\:focus\:placeholder-moxi-destructive-light:focus::placeholder{
+  .xl\:focus\:placeholder-destructive-light:focus::placeholder{
     color: #F77B73;
   }
 
@@ -38699,43 +38699,43 @@ p {
     color: #ffffff;
   }
 
-  .xl\:text-moxi-blue-dark{
+  .xl\:text-blue-dark{
     color: #377cbf;
   }
 
-  .xl\:text-moxi-blue{
+  .xl\:text-blue{
     color: #5092d3;
   }
 
-  .xl\:text-moxi-blue-light{
+  .xl\:text-blue-light{
     color: #84b2e0;
   }
 
-  .xl\:text-moxi-blue-lightest{
+  .xl\:text-blue-lightest{
     color: #a7c8e9;
   }
 
-  .xl\:text-moxi-green-dark{
+  .xl\:text-green-dark{
     color: #42a33e;
   }
 
-  .xl\:text-moxi-green{
+  .xl\:text-green{
     color: #50b64c;
   }
 
-  .xl\:text-moxi-green-light{
+  .xl\:text-green-light{
     color: #84cb81;
   }
 
-  .xl\:text-moxi-green-lightest{
+  .xl\:text-green-lightest{
     color: #a7daa5;
   }
 
-  .xl\:text-moxi-destructive{
+  .xl\:text-destructive{
     color: #f44336;
   }
 
-  .xl\:text-moxi-destructive-light{
+  .xl\:text-destructive-light{
     color: #F77B73;
   }
 
@@ -38843,43 +38843,43 @@ p {
     color: #ffffff;
   }
 
-  .xl\:hover\:text-moxi-blue-dark:hover{
+  .xl\:hover\:text-blue-dark:hover{
     color: #377cbf;
   }
 
-  .xl\:hover\:text-moxi-blue:hover{
+  .xl\:hover\:text-blue:hover{
     color: #5092d3;
   }
 
-  .xl\:hover\:text-moxi-blue-light:hover{
+  .xl\:hover\:text-blue-light:hover{
     color: #84b2e0;
   }
 
-  .xl\:hover\:text-moxi-blue-lightest:hover{
+  .xl\:hover\:text-blue-lightest:hover{
     color: #a7c8e9;
   }
 
-  .xl\:hover\:text-moxi-green-dark:hover{
+  .xl\:hover\:text-green-dark:hover{
     color: #42a33e;
   }
 
-  .xl\:hover\:text-moxi-green:hover{
+  .xl\:hover\:text-green:hover{
     color: #50b64c;
   }
 
-  .xl\:hover\:text-moxi-green-light:hover{
+  .xl\:hover\:text-green-light:hover{
     color: #84cb81;
   }
 
-  .xl\:hover\:text-moxi-green-lightest:hover{
+  .xl\:hover\:text-green-lightest:hover{
     color: #a7daa5;
   }
 
-  .xl\:hover\:text-moxi-destructive:hover{
+  .xl\:hover\:text-destructive:hover{
     color: #f44336;
   }
 
-  .xl\:hover\:text-moxi-destructive-light:hover{
+  .xl\:hover\:text-destructive-light:hover{
     color: #F77B73;
   }
 
@@ -38987,43 +38987,43 @@ p {
     color: #ffffff;
   }
 
-  .xl\:focus\:text-moxi-blue-dark:focus{
+  .xl\:focus\:text-blue-dark:focus{
     color: #377cbf;
   }
 
-  .xl\:focus\:text-moxi-blue:focus{
+  .xl\:focus\:text-blue:focus{
     color: #5092d3;
   }
 
-  .xl\:focus\:text-moxi-blue-light:focus{
+  .xl\:focus\:text-blue-light:focus{
     color: #84b2e0;
   }
 
-  .xl\:focus\:text-moxi-blue-lightest:focus{
+  .xl\:focus\:text-blue-lightest:focus{
     color: #a7c8e9;
   }
 
-  .xl\:focus\:text-moxi-green-dark:focus{
+  .xl\:focus\:text-green-dark:focus{
     color: #42a33e;
   }
 
-  .xl\:focus\:text-moxi-green:focus{
+  .xl\:focus\:text-green:focus{
     color: #50b64c;
   }
 
-  .xl\:focus\:text-moxi-green-light:focus{
+  .xl\:focus\:text-green-light:focus{
     color: #84cb81;
   }
 
-  .xl\:focus\:text-moxi-green-lightest:focus{
+  .xl\:focus\:text-green-lightest:focus{
     color: #a7daa5;
   }
 
-  .xl\:focus\:text-moxi-destructive:focus{
+  .xl\:focus\:text-destructive:focus{
     color: #f44336;
   }
 
-  .xl\:focus\:text-moxi-destructive-light:focus{
+  .xl\:focus\:text-destructive-light:focus{
     color: #F77B73;
   }
 
