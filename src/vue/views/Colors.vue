@@ -310,6 +310,7 @@ export default {
 
       td:not(.blob-code) {
         width: 25%;
+        vertical-align: top;
       }
 
     }
@@ -328,6 +329,13 @@ export default {
       font-weight: normal;
       font-style: italic;
       font-size: 12px;
+    }
+
+    @media (max-width: 768px) {
+      .color-display {
+        width: 50px;
+        height: 50px;
+      }
     }
   }
 </style>
