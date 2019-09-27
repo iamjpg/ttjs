@@ -1,35 +1,37 @@
 <template>
   <section id="left-nav">
-    <div id="logo-container">
-      <i class="far fa-turntable"></i>
-      <h3>Turntable Components</h3>
+    <div id="sticky-container">
+      <div id="logo-container" class="center">
+        <i class="far fa-turntable"></i>
+        <h3>Turntable Components</h3>
+      </div>
+      <ul>
+        <li class="title">Getting Started</li>
+        <router-link to="/">
+          <li>About</li>
+        </router-link>
+        <router-link to="/installation">
+          <li>Installation</li>
+        </router-link>
+        <router-link to="/framework-integration">
+          <li>Framework Integration</li>
+        </router-link>
+        <li class="title">CSS</li>
+        <li>Typography</li>
+        <li>Colors</li>
+        <li>Grid</li>
+        <li>Containers</li>
+        <li>Box Shadows</li>
+        <li>Badges</li>
+        <li class="title">Components</li>
+        <router-link to="/buttons">
+          <li>Buttons</li>
+        </router-link>
+        <li>Form Elements</li>
+        <li>Toasts</li>
+        <li>Cards</li>
+      </ul>
     </div>
-    <ul>
-      <li class="title">Getting Started</li>
-      <router-link to="/">
-        <li>About</li>
-      </router-link>
-      <router-link to="/installation">
-        <li>Installation</li>
-      </router-link>
-      <router-link to="/framework-integration">
-        <li>Framework Integration</li>
-      </router-link>
-      <li class="title">CSS</li>
-      <li>Typography</li>
-      <li>Colors</li>
-      <li>Grid</li>
-      <li>Containers</li>
-      <li>Box Shadows</li>
-      <li>Badges</li>
-      <li class="title">Components</li>
-      <router-link to="/buttons">
-        <li>Buttons</li>
-      </router-link>
-      <li>Form Elements</li>
-      <li>Toasts</li>
-      <li>Cards</li>
-    </ul>
   </section>
 </template>
 
@@ -58,6 +60,11 @@ export default {
     background: #fff;
     overflow-y: auto;
 
+    #sticky-container {
+      position: fixed;
+      width: 250px;
+    }
+
     #logo-container {
       border-bottom: 1px solid #e6e6e6;
       margin: 0;
@@ -73,7 +80,7 @@ export default {
 
     }
 
-    div {
+    .center {
       text-align: center;
     }
 
