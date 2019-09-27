@@ -30,7 +30,7 @@
       </tr>
     </table>
 
-    <Gist username="iamjpg" hash="ac68c026c6c12aa7915c0798d6d6b939" target="btn-standard" />
+    <Gist username="iamjpg" hash="ac68c026c6c12aa7915c0798d6d6b939" />
 
     <h2>Dense Buttons (With and Without Icons)</h2>
     <table>
@@ -56,7 +56,7 @@
       </tr>
     </table>
 
-    <Gist username="iamjpg" hash="5e084772f35329b46c0f11c3ea082225" target="btn-dense" />
+    <Gist username="iamjpg" hash="5e084772f35329b46c0f11c3ea082225" />
 
     <h2>Variations using TailwindCSS's Functional Styling</h2>
     <p>All of these examples will be dense. Please take a look at the colors section to see the possibilities.</p>
@@ -77,7 +77,15 @@
       </tr>
     </table>
 
-    <Gist username="iamjpg" hash="d1b8871e4c56d5f9a01aa26c676bcf12" target="btn-variant" />
+    <Gist username="iamjpg" hash="d1b8871e4c56d5f9a01aa26c676bcf12" />
+
+    <h2>Buttons as Anchor Tags</h2>
+
+    <p>To output a button as a hyper link, simply pass an href attribute with the link. It also accepts a target attribute.</p>
+
+    <tt-button type="primary,dense" icon="fab fa-google" href="https://google.com" target="_blank">Go to Google</tt-button>
+
+    <Gist username="iamjpg" hash="66d5b99e4cb93344e3399915fb36c8a7" />
 
   </section>
 </template>
