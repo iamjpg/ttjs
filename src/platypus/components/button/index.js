@@ -25,8 +25,19 @@ class Button extends LitElement {
   returnTypes() {
     let tmp = this.type.split(',')
     let str = ''
+    let allowArr = [
+      'dense',
+      'flat',
+      'default',
+      'primary',
+      'destructive'
+    ]
     tmp.forEach((o) => {
-      str += `btn-${o} `
+      if (allowArr.indexOf(o) > -1) {
+        str += `btn-${o} `
+      } else {
+        str += `${o} `
+      }
     })
     return `btn ${str}`
   }
@@ -55,5 +66,5 @@ class Button extends LitElement {
 }
 
 export default function TurnTableButton() {
-  customElements.define('turntable-button', Button);
+  customElements.define('tt-button', Button);
 }
