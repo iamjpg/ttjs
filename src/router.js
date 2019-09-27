@@ -29,6 +29,11 @@ export default new Router({
       path: '/colors',
       name: 'colors',
       component: () => import(/* webpackChunkName: "colors" */ './vue/views/Colors.vue'),
+    },
+    {
+      path: '/grid',
+      name: 'grid',
+      component: () => import(/* webpackChunkName: "grid" */ './vue/views/Grid.vue'),
     }
   ],
 });

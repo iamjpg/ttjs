@@ -21,7 +21,9 @@
         <router-link to="/colors">
           <li>Colors</li>
         </router-link>
-        <li>Grid</li>
+        <router-link to="/grid">
+          <li>Grid</li>
+        </router-link>
         <li>Containers</li>
         <li>Box Shadows</li>
         <li>Badges</li>
@@ -92,7 +94,7 @@ export default {
       padding: 0;
 
       li:not(.title) {
-        padding: 8px 25px;
+        padding: 12px 25px;
         margin-left: 10px;
         // border-bottom: 1px solid #e6e6e6;
       }
