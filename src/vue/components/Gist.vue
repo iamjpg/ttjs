@@ -1,5 +1,5 @@
 <template>
-  <div id="gist"></div>
+  <div :id="target" class="gist"></div>
 </template>
 
 <script>
@@ -7,15 +7,18 @@ import postscribe from 'postscribe'
 
 export default {
   mounted() {
-    postscribe('#gist', `<script src="https://gist.github.com/${this.username}/${this.hash}.js"><\/script>`)
+    postscribe(`#${this.target}`, `<script src="https://gist.github.com/${this.username}/${this.hash}.js"><\/script>`)
   },
   props: [
     'username',
-    'hash'
+    'hash',
+    'target'
   ]
 }
 </script>
 
-<style lang="sass">
-
+<style lang="scss">
+  .gist {
+    margin: 15px 0;
+  }
 </style>

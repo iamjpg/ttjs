@@ -6,7 +6,7 @@
       you have many options to style the buttons.
     </p>
 
-    <h2>Standard Buttons with and without Icons</h2>
+    <h2>Standard Buttons (With and Without Icons)</h2>
     <table>
       <thead>
         <tr>
@@ -30,7 +30,9 @@
       </tr>
     </table>
 
-    <h2>Dense Buttons</h2>
+    <Gist username="iamjpg" hash="ac68c026c6c12aa7915c0798d6d6b939" target="btn-standard" />
+
+    <h2>Dense Buttons (With and Without Icons)</h2>
     <table>
       <thead>
         <tr>
@@ -54,20 +56,45 @@
       </tr>
     </table>
 
+    <Gist username="iamjpg" hash="5e084772f35329b46c0f11c3ea082225" target="btn-dense" />
+
+    <h2>Variations using TailwindCSS's Functional Styling</h2>
+    <p>All of these examples will be dense. Please take a look at the colors section to see the possibilities.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Black &amp; White</th>
+          <th>Mulberry</th>
+          <th>Riptide</th>
+          <th>Flamenco</th>
+        </tr>
+      </thead>
+      <tr>
+        <td><tt-button type="dense, bg-black, text-white">Button</tt-button></td>
+        <td><tt-button type="dense,bg-ca-mulberry,text-white">Button</tt-button></td>
+        <td><tt-button type="dense,bg-ca-riptide,text-black">Button</tt-button></td>
+        <td><tt-button type="dense,bg-ca-flamenco,text-black">Button</tt-button></td>
+      </tr>
+    </table>
+
+    <Gist username="iamjpg" hash="d1b8871e4c56d5f9a01aa26c676bcf12" target="btn-variant" />
+
   </section>
 </template>
 
 <script>
-  //import Button from 'turntable.bundle.js';
+  import Gist from '../components/Gist.vue';
 
   export default {
-    
+    components: {
+      Gist
+    }
   }
 </script>
 
 <style lang="scss">
   #section-buttons {
-    table, th, td {
+    table:not(.blob-code), th:not(.blob-code), td:not(.blob-code) {
       border: 1px solid #e6e6e6;
       padding: 15px;
     }

@@ -23,23 +23,23 @@ class Button extends LitElement {
   }
 
   returnTypes() {
-    let tmp = this.type.split(',')
-    let str = ''
+    let tmp = this.type.replace(/, /g, ',').split(',');
+    let str = '';
     let allowArr = [
       'dense',
       'flat',
       'default',
       'primary',
       'destructive'
-    ]
+    ];
     tmp.forEach((o) => {
       if (allowArr.indexOf(o) > -1) {
         str += `btn-${o} `
       } else {
         str += `${o} `
       }
-    })
-    return `btn ${str}`
+    });
+    return `btn ${str}`;
   }
 
   returnInnerText() {
