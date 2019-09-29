@@ -34,6 +34,11 @@ export default new Router({
       path: '/grid',
       name: 'grid',
       component: () => import(/* webpackChunkName: "grid" */ './vue/views/Grid.vue'),
+    },
+    {
+      path: '/form-elements',
+      name: 'form-elements',
+      component: () => import(/* webpackChunkName: "grid" */ './vue/views/FormElements.vue'),
     }
   ],
 });

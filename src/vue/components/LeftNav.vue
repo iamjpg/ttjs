@@ -31,7 +31,9 @@
         <router-link to="/buttons">
           <li>Buttons</li>
         </router-link>
-        <li>Form Elements</li>
+        <router-link to="/form-elements">
+          <li>Form Elements</li>
+        </router-link>
         <li>Toasts</li>
         <li>Cards</li>
       </ul>

@@ -8709,7 +8709,7 @@ p {
 * Input Elements
 ************************************************************************************/
 
-.vp-input-container {
+.tt-input-container {
   position: relative;
   min-width: 100%;
   padding: 10px;
@@ -8720,16 +8720,16 @@ p {
   border-color: #bcc0c2;
 }
 
-.vp-input-container input {
+.tt-input-container input {
   background: transparent;
 }
 
-.vp-input-container.dark {
+.tt-input-container.dark {
   border-width: 1px;
   border-color: #212e35;
 }
 
-.vp-input-container label {
+.tt-input-container label {
   position: absolute;
   top: 10px;
   left: 10px;
@@ -8742,14 +8742,14 @@ p {
   padding: 0 5px;
 }
 
-.vp-input-container label.active {
+.tt-input-container label.active {
   color: #636c71;
   transform: translateY(-20px) scale(0.8);
   transform-origin: 0 0;
   background: #fff;
 }
 
-.vp-input-container i {
+.tt-input-container i {
   position: absolute;
   color: #666;
   top: 10px;
@@ -8757,30 +8757,30 @@ p {
   font-size: 24px;
 }
 
-.vp-input-container .v-icon-close-circle {
+.tt-input-container .fa-times-circle {
   left: unset;
   right: 10px;
   cursor: pointer;
   display: none;
 }
 
-.vp-input-container input[type="text"], .vp-input-container input[type="tel"] {
+.tt-input-container input[type="text"], .tt-input-container input[type="tel"] {
   width: 100%;
 }
 
-.vp-input-container input[type="text"]:focus,
-.vp-input-container input[type="tel"]:focus,
-.vp-input-container input[type="text"]:not(:placeholder-shown),
-.vp-input-container input[type="tel"]:not(:placeholder-shown) {
+.tt-input-container input[type="text"]:focus,
+.tt-input-container input[type="tel"]:focus,
+.tt-input-container input[type="text"]:not(:placeholder-shown),
+.tt-input-container input[type="tel"]:not(:placeholder-shown) {
   padding-top: 4px;
 }
 
-.vp-input-container.textarea {
+.tt-input-container.textarea {
   height: auto;
   max-height: inherit;
 }
 
-.vp-input-container textarea {
+.tt-input-container textarea {
   background: transparent;
   line-height: 100%;
   width: 100%;
