@@ -17,11 +17,11 @@ class Input extends LitElement {
       autocomplete: { type: Boolean },
       iconleft: { type: String },
       iconRight: { type: String },
-      iconclose: { type: String },
       rows: { type: String },
       format: { type: Boolean },
       color: { type: String },
-      background: { type: String }
+      background: { type: String },
+      closeIcon: { type: String }
     };
   }
 
@@ -45,13 +45,12 @@ class Input extends LitElement {
     if (this.iconleft) {
       str += 'padding-left: 30px; ';
     }
-    if (this.iconclose) {
+    if (this.closeIcon) {
       str += 'padding-right: 30px; '
     }
     if (this.color) {
       str += `color: ${this.color}; `
     }
-
     str = `padding: 0; ${str}`
     return str;
   }
@@ -87,7 +86,7 @@ class Input extends LitElement {
   }
 
   showHideClearButton(e) {
-    if (!this.iconclose) return false;
+    if (!this.closeIcon) return false;
     let el = e.target;
     let container = el.parentNode;
     if (el.value === '') {
@@ -181,7 +180,7 @@ class Input extends LitElement {
     this.id = (this.id) ? this.id : '';
     this.rows = (this.rows) ? this.rows : '';
 
-    if (this.iconclose) {
+    if (this.closeIcon) {
       requestAnimationFrame(() => {
         let el = this.querySelector('input');
         this.showHideClearButton({
@@ -204,7 +203,6 @@ class Input extends LitElement {
       html`
         <div class="${ this.returnBaseContainerClass() }">
           <i data-icontype="left" class="${ this.iconleft }"></i>
-          <i class="fal fa-times-circle" @click="${ this.clearField }"></i>
           <label style="${ this.checkLabelStyles() }" @click="${ this.focusOnInput }">${ this.label }</label>
           <textarea
             autocomplete="off"
@@ -214,7 +212,6 @@ class Input extends LitElement {
             name="${ this.name }"
             pattern="${ this.pattern }"
             rows="${ this.rows }"
-            @keyup="${ this.showHideClearButton }"
             @focus="${ this.hidePlaceHolder }"
             @blur="${ this.showPlaceHolder }"
           >${ this.value }</textarea>
@@ -225,7 +222,7 @@ class Input extends LitElement {
       html`
       <div class="${ this.returnBaseContainerClass() }">
         <i data-icontype="left" class="${ this.iconleft }"></i>
-        <i class="fal fa-times-circle" @click="${ this.clearField }"></i>
+        <i class="${ this.closeIcon }" @click="${ this.clearField }"></i>
         <label style="${ this.checkLabelStyles() }" @click="${ this.focusOnInput }">${ this.label }</label>
         <input
           autocomplete="off"

@@ -13,7 +13,7 @@
     </div>
     <br />
     <div class="short">
-      <tt-input type="tel" label="Input with clear button" name="foo" iconclose="true" pattern="[0-9]*" value="test"></tt-input>
+      <tt-input type="tel" label="Input with clear button" name="foo" closeIcon="fal fa-times-circle" pattern="[0-9]*" value="test"></tt-input>
     </div>
     <br />
     <div class="short">
