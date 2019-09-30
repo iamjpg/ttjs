@@ -1,5 +1,5 @@
-import Button from './platypus/components/button';
+import Button from './turntable/components/button';
 Button();
 
-import Input from './platypus/components/form-elements/input';
+import Input from './turntable/components/form-elements/input';
 Input();
