@@ -2,7 +2,7 @@
 import { LitElement, html } from 'lit-element';
 
 // Extend the LitElement base class
-class Checkbox extends LitElement {
+class Radio extends LitElement {
 
   static get properties() {
     return {
@@ -41,20 +41,20 @@ class Checkbox extends LitElement {
   render() {
     this.preFlight();
     return html`
-    <label class="${ this.returnStyles('element-container', this.type) }">${ this.label }
+    <label class="${ this.returnStyles('element-container radio', this.type) }">${ this.label }
         <input
-          type="checkbox"
+          type="radio"
           name="${ this.name }"
           value="${ this.value }"
           .checked="${ this.checked }"
           .disabled="${ this.disabled }"
         >
-        <span class="${ this.returnStyles('checkmark', this.type) }"></span>
+        <span class="${ this.returnStyles('checkmark radio', this.type) }"></span>
       </label>
     `;
   }
 }
 
-export default function TurnTableCheckbox() {
-  customElements.define('tt-checkbox', Checkbox);
+export default function TurnTableRadio() {
+  customElements.define('tt-radio', Radio);
 }

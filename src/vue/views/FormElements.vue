@@ -24,7 +24,7 @@
       <tt-input type="textarea" label="Text Area Example" name="foo" id="plop" rows="20"></tt-input>
     </div>
 
-    <h2>Checkboxes and Radio Elements</h2>
+    <h2>Checkbox Elements</h2>
 
     <div>
       <tt-checkbox label="Basic Checkbox" name="check-box-name" value="foo" checked="true"></tt-checkbox>
@@ -34,6 +34,19 @@
     </div>
     <div>
       <tt-checkbox label="Disabled Checkbox" type="disabled" value="baz" name="check-box-name"></tt-checkbox>
+    </div>
+
+    <h2>Radio Elements</h2>
+
+
+    <div>
+      <tt-radio label="Basic Radio" name="radio1" value="foo"></tt-radio>
+    </div>
+    <div>
+      <tt-radio label="Destructive Radio" type="destructive" name="radio1" value="bar" checked="true"></tt-radio>
+    </div>
+    <div>
+      <tt-radio label="Disabled Radio" type="disabled" name="radio1" value="baz"></tt-radio>
     </div>
 
   </section>

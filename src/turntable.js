@@ -6,3 +6,6 @@ Input();
 
 import Checkbox from './turntable/components/form-elements/checkbox';
 Checkbox();
+
+import Radio from './turntable/components/form-elements/radio';
+Radio();
