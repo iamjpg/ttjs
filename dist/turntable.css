@@ -8434,16 +8434,16 @@ p {
 * Grid Classes
 ************************************************************************************/
 
-.v-flex {
+.tt-flex {
   display: flex;
 }
 
-.v-flex-wrap {
+.tt-flex-wrap {
   display: flex;
   flex-wrap: wrap;
 }
 
-.v-flex .v-flex-item, .v-flex-wrap .v-flex-item {
+.tt-flex .tt-flex-item, .tt-flex-wrap .tt-flex-item {
   padding: 8px;
   margin-bottom: 8px;
 }
@@ -8452,7 +8452,7 @@ p {
 * Card Classes
 ************************************************************************************/
 
-.v-card {
+.tt-card {
   position: relative;
   flex-wrap: wrap;
   background-color: #f2f3f3;
@@ -8460,40 +8460,40 @@ p {
   margin-bottom: 3px;
 }
 
-.v-card.showhover:hover {
+.tt-card.showhover:hover {
   cursor: pointer;
   background: #F8F8F8
 }
 
-.v-card.level-1 {
+.tt-card.level-1 {
   background-color: #ffffff;
   box-shadow: 0 1px 2px 0 rgba(33,46,53,0.50);
 }
 
-.v-card.level-2 {
+.tt-card.level-2 {
   background-color: #ffffff;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24), 0 5px 10px 0 rgba(33,46,53,0.20);
 }
 
-.v-card.level-3 {
+.tt-card.level-3 {
   background-color: #ffffff;
   box-shadow: 0 31px 41px 0 rgba(33,43,54,0.20), 0 2px 16px 0 rgba(33,43,54,0.08);
 }
 
-.v-card i {
+.tt-card i {
   font-size: 24px;
   margin-right: 15px;
 }
 
-.v-card .rounded-image {
+.tt-card .rounded-image {
   margin-right: 15px;
 }
 
-.v-card .v-card-header-image {
+.tt-card .tt-card-header-image {
   width: 100%;
 }
 
-.v-card .v-card-header-image .v-card-header-image-gradient {
+.tt-card .tt-card-header-image .tt-card-header-image-gradient {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -8505,16 +8505,16 @@ p {
   line-height: 100%;
 }
 
-.v-card h1, .v-card h2, .v-card h3, .v-card h4, .v-card h5 {
+.tt-card h1, .tt-card h2, .tt-card h3, .tt-card h4, .tt-card h5 {
   margin: 0 0 16px 0;
 }
 
-.v-card .v-card-subsection {
+.tt-card .tt-card-subsection {
   background-color: #f8f8f8;
   padding: 16px;
 }
 
-.v-card-badge-container .badge {
+.tt-card-badge-container .badge {
   margin-right: 4px;
 }
 
@@ -8638,7 +8638,7 @@ p {
 * Switches
 ************************************************************************************/
 
-.vp-switch {
+.tt-switch {
   position: relative;
   display: inline-block;
   width: 40px;
@@ -8647,7 +8647,7 @@ p {
 
 /* Hide default HTML checkbox */
 
-.vp-switch input {
+.tt-switch input {
   opacity: 0;
   width: 0;
   height: 0;
@@ -8655,7 +8655,7 @@ p {
 
 /* The slider */
 
-.vp-switch .slider {
+.tt-switch .slider {
   position: absolute;
   cursor: pointer;
   top: 0;
@@ -8666,7 +8666,7 @@ p {
   transition: .4s;
 }
 
-.vp-switch .slider:before {
+.tt-switch .slider:before {
   position: absolute;
   content: "";
   height: 12px;
@@ -8677,31 +8677,31 @@ p {
   transition: .4s;
 }
 
-.vp-switch input:checked+.slider {
+.tt-switch input:checked+.slider {
   background-color: #377cbf;
 }
 
-.vp-switch input:checked+.slider:before {
+.tt-switch input:checked+.slider:before {
   transform: translateX(18px);
 }
 
 /* Rounded sliders */
 
-.vp-switch .slider.round {
+.tt-switch .slider.round {
   border-radius: 34px;
 }
 
-.vp-switch .slider.round:before {
+.tt-switch .slider.round:before {
   border-radius: 50%;
 }
 
 /* destructive slider */
 
-.vp-switch .slider.destructive:before {
+.tt-switch .slider.destructive:before {
   background-color: #f44336;
 }
 
-.vp-switch input:checked+.slider.destructive {
+.tt-switch input:checked+.slider.destructive {
   background-color: #F77B73;
 }
 
@@ -8790,7 +8790,7 @@ p {
 * Toasts
 ************************************************************************************/
 
-.vp-toast-wrapper {
+.tt-toast-wrapper {
   position: absolute;
   top: 0;
   right: 0;
@@ -8818,7 +8818,7 @@ p {
   transform: translateY(-50%);
 }
 
-.vp-toast {
+.tt-toast {
   padding: 16px 8px;
   min-width: 280px;
   max-width: 280px;
@@ -8829,36 +8829,36 @@ p {
   box-shadow: 0 1px 2px 0 rgba(33, 46, 53, .5)
 }
 
-#vp-toast-container.centered .vp-toast {
+#vp-toast-container.centered .tt-toast {
   margin: auto;
   max-width: 580px;
 }
 
-.vp-toast.show {
+.tt-toast.show {
   display: flex;
   -webkit-animation: showtoast 2s;
   animation:         showtoast 2s;
 }
 
-.vp-toast-icon {
+.tt-toast-icon {
   flex: 32px;
 }
 
-.vp-toast-message p {
+.tt-toast-message p {
   margin: 0;
 }
 
-.vp-toast i {
+.tt-toast i {
   margin-right: 8px;
   font-size: 24px;
   color: #50b64c;
 }
 
-.vp-toast i.info {
+.tt-toast i.info {
   color: #636c71;
 }
 
-.vp-toast i.error {
+.tt-toast i.error {
   color: #f44336;
 }
 
@@ -8882,23 +8882,23 @@ p {
 * Containers
 ************************************************************************************/
 
-.v-container-thick {
+.tt-container-thick {
   padding: 32px;
 }
 
-.v-container {
+.tt-container {
   padding: 24px;
 }
 
-.v-container-thin {
+.tt-container-thin {
   padding: 16px;
 }
 
-.v-container-extra-thin {
+.tt-container-extra-thin {
   padding: 8px;
 }
 
-.v-container-zero {
+.tt-container-zero {
   padding: 0;
 }
 
