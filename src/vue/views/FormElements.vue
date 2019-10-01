@@ -38,7 +38,6 @@
 
     <h2>Radio Elements</h2>
 
-
     <div>
       <tt-radio label="Basic Radio" name="radio1" value="foo"></tt-radio>
     </div>
@@ -47,6 +46,21 @@
     </div>
     <div>
       <tt-radio label="Disabled Radio" type="disabled" name="radio1" value="baz"></tt-radio>
+    </div>
+
+    <h2>Switch Elements</h2>
+
+    <div class="tt-flex">
+      <div class="tt-flex-item w-1/5">Basic</div>
+      <div class="tt-flex-item w-1/5"><tt-switch name="doctor" value="dre" checked="true"></tt-switch></div>
+    </div>
+    <div class="tt-flex">
+      <div class="tt-flex-item w-1/5">Rounded</div>
+      <div class="tt-flex-item w-1/5"><tt-switch name="tribe" value="called quest" type="round"></tt-switch></div>
+    </div>
+    <div class="tt-flex">
+      <div class="tt-flex-item w-1/5">Destructive</div>
+      <div class="tt-flex-item w-1/5"><tt-switch name="snoop" value="dogg" type="destructive"></tt-switch></div>
     </div>
 
   </section>
@@ -59,5 +73,5 @@ export default {
 </script>
 
 <style lang="scss">
-#section-form-elements {}
+
 </style>
