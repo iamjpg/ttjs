@@ -24,8 +24,12 @@
         <router-link to="/grid">
           <li>Grid</li>
         </router-link>
-        <li>Containers</li>
-        <li>Box Shadows</li>
+        <router-link to="/containers">
+          <li>Containers</li>
+        </router-link>
+        <router-link to="/box-shadows">
+          <li>Box Shadows</li>
+        </router-link>
         <li>Badges</li>
         <li class="title">Components</li>
         <router-link to="/buttons">

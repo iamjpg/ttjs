@@ -39,6 +39,16 @@ export default new Router({
       path: '/form-elements',
       name: 'form-elements',
       component: () => import(/* webpackChunkName: "grid" */ './vue/views/FormElements.vue'),
+    },
+    {
+      path: '/containers',
+      name: 'containers',
+      component: () => import(/* webpackChunkName: "containers" */ './vue/views/Containers.vue'),
+    },
+    {
+      path: '/box-shadows',
+      name: 'box-shadows',
+      component: () => import(/* webpackChunkName: "box-shadows" */ './vue/views/Shadows.vue'),
     }
   ],
 });
