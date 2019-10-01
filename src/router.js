@@ -49,6 +49,11 @@ export default new Router({
       path: '/box-shadows',
       name: 'box-shadows',
       component: () => import(/* webpackChunkName: "box-shadows" */ './vue/views/Shadows.vue'),
+    },
+    {
+      path: '/typography',
+      name: 'typography',
+      component: () => import(/* webpackChunkName: "typography" */ './vue/views/Typography.vue'),
     }
   ],
 });

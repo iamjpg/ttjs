@@ -17,7 +17,9 @@
           <li>Framework Integration</li>
         </router-link>
         <li class="title">CSS</li>
-        <li>Typography</li>
+        <router-link to="/typography">
+          <li>Typography</li>
+        </router-link>
         <router-link to="/colors">
           <li>Colors</li>
         </router-link>
