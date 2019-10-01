@@ -8757,7 +8757,7 @@ p {
   font-size: 24px;
 }
 
-.tt-input-container .fa-times-circle {
+.tt-input-container .iconclose {
   left: unset;
   right: 10px;
   cursor: pointer;

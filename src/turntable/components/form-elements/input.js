@@ -85,14 +85,23 @@ class Input extends LitElement {
     return str;
   }
 
+  returnCloseIconClass() {
+    var ci = this.closeIcon.split(' ').map(function(o) {
+      return `.${o}`
+    }).join('');
+
+    return `.iconclose${ci}`;
+  }
+
   showHideClearButton(e) {
     if (!this.closeIcon) return false;
+
     let el = e.target;
     let container = el.parentNode;
     if (el.value === '') {
-      container.querySelector('.fal.fa-times-circle').style.display = 'none';
+      container.querySelector(this.returnCloseIconClass()).style.display = 'none';
     } else {
-      container.querySelector('.fal.fa-times-circle').style.display = 'block';
+      container.querySelector(this.returnCloseIconClass()).style.display = 'block';
     }
   }
 
@@ -128,7 +137,7 @@ class Input extends LitElement {
     container.querySelector('input').value = '';
     label.classList.remove('active');
     container.classList.remove('dark');
-    container.querySelector('.fal.fa-times-circle').style.display = 'none';
+    container.querySelector(this.returnCloseIconClass()).style.display = 'none';
   }
 
   formatField() {
@@ -222,7 +231,7 @@ class Input extends LitElement {
       html`
       <div class="${ this.returnBaseContainerClass() }">
         <i data-icontype="left" class="${ this.iconleft }"></i>
-        <i class="${ this.closeIcon }" @click="${ this.clearField }"></i>
+        <i class="iconclose ${ this.closeIcon }" @click="${ this.clearField }"></i>
         <label style="${ this.checkLabelStyles() }" @click="${ this.focusOnInput }">${ this.label }</label>
         <input
           autocomplete="off"
