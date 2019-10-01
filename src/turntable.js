@@ -3,3 +3,6 @@ Button();
 
 import Input from './turntable/components/form-elements/input';
 Input();
+
+import Checkbox from './turntable/components/form-elements/checkbox';
+Checkbox();

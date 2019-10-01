@@ -9,7 +9,7 @@
     </div>
     <br />
     <div class="short">
-      <tt-input type="tel" label="Icon Left With label" name="foo" iconleft="fas fa-bomb"></tt-input>
+      <tt-input type="tel" label="Icon Left With label" name="foo" iconleft="fas fa-bell-exclamation"></tt-input>
     </div>
     <br />
     <div class="short">
@@ -22,6 +22,18 @@
     <br />
     <div class="short">
       <tt-input type="textarea" label="Text Area Example" name="foo" id="plop" rows="20"></tt-input>
+    </div>
+
+    <h2>Checkboxes and Radio Elements</h2>
+
+    <div>
+      <tt-checkbox label="Basic Checkbox" name="check-box-name" value="foo" checked="true"></tt-checkbox>
+    </div>
+    <div>
+      <tt-checkbox label="Destrictive Checkbox" type="destructive" value="bar" name="check-box-name"></tt-checkbox>
+    </div>
+    <div>
+      <tt-checkbox label="Disabled Checkbox" type="disabled" value="baz" name="check-box-name"></tt-checkbox>
     </div>
 
   </section>
