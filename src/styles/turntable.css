@@ -211,7 +211,7 @@ p {
   @apply bg-cn-05 p-16;
 }
 
-.tt-card-badge-container .badge {
+.tt-card-badge-container .tt-badge {
   margin-right: 4px;
 }
 
@@ -615,24 +615,24 @@ p {
 * Badges
 ************************************************************************************/
 
-.badge {
+.tt-badge {
   @apply text-xs py-2 px-4 rounded-sm text-center inline-block align-middle leading-none min-w-24;
 }
 
 /* Margin top is determined by base font being 16px and badge font being 12px */
-.badge.badge-right {
+.tt-badge.tt-badge-right {
   @apply float-right mt-4;
 }
 
-.badge.blue {
+.tt-badge.blue {
   @apply bg-blue-dark text-white;
 }
 
-.badge.green {
+.tt-badge.green {
   @apply bg-green-dark text-white;
 }
 
-.badge.destructive {
+.tt-badge.destructive {
   @apply bg-destructive text-white;
 }
 

@@ -32,7 +32,9 @@
         <router-link to="/box-shadows">
           <li>Box Shadows</li>
         </router-link>
-        <li>Badges</li>
+        <router-link to="/badges">
+          <li>Badges</li>
+        </router-link>
         <li class="title">Components</li>
         <router-link to="/buttons">
           <li>Buttons</li>

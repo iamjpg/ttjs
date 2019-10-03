@@ -8514,7 +8514,7 @@ p {
   padding: 16px;
 }
 
-.tt-card-badge-container .badge {
+.tt-card-badge-container .tt-badge {
   margin-right: 4px;
 }
 
@@ -8906,7 +8906,7 @@ p {
 * Badges
 ************************************************************************************/
 
-.badge {
+.tt-badge {
   font-size: 0.75rem;
   padding-top: 2px;
   padding-bottom: 2px;
@@ -8922,22 +8922,22 @@ p {
 
 /* Margin top is determined by base font being 16px and badge font being 12px */
 
-.badge.badge-right {
+.tt-badge.tt-badge-right {
   float: right;
   margin-top: 4px;
 }
 
-.badge.blue {
+.tt-badge.blue {
   background-color: #377cbf;
   color: #ffffff;
 }
 
-.badge.green {
+.tt-badge.green {
   background-color: #42a33e;
   color: #ffffff;
 }
 
-.badge.destructive {
+.tt-badge.destructive {
   background-color: #f44336;
   color: #ffffff;
 }

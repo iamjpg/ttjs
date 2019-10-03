@@ -54,6 +54,11 @@ export default new Router({
       path: '/typography',
       name: 'typography',
       component: () => import(/* webpackChunkName: "typography" */ './vue/views/Typography.vue'),
+    },
+    {
+      path: '/badges',
+      name: 'badges',
+      component: () => import(/* webpackChunkName: "badges" */ './vue/views/Badges.vue'),
     }
   ],
 });
